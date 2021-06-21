@@ -1,0 +1,222 @@
+baseURL = "https://escuelaramonfdez.org"
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "es"
+# language code
+languageCode = "es"
+title = "Escuela Ramón Fernández Durán"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "LoveIt"
+
+[params]
+  # uBlogger theme version
+  version = "0.2.X"
+  # site description
+  description = "This is My New Hugo Site"
+  # site keywords
+  keywords = ["Escuela", "Movimientos Sociales", "Ecologistas en Acción", "Baladre", "CGT"]
+  # uBlogger NEW | 0.2.0 date format
+  dateFormat = "02-01-2006"
+  # website images for Open Graph and Twitter Cards
+  images = ["/img/logo.png"]
+
+# uBlogger NEW | 0.2.0 Search config
+[params.search]
+  enable = true
+  # type of search engine ("lunr", "algolia")
+  type = "lunr"
+  # max index length of the chunked content
+  contentLength = 4000
+  # placeholder of the search bar
+  placeholder = ""
+  # uBlogger NEW | 0.2.1 max number of results length
+  maxResultLength = 10
+  # uBlogger NEW | 0.2.3 snippet length of the result
+  snippetLength = 30
+  # uBlogger NEW | 0.2.1 HTML tag name of the highlight part in results
+  highlightTag = "em"
+  # uBlogger NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
+  absoluteURL = false
+  [params.search.algolia]
+    index = ""
+    appID = ""
+    searchKey = ""
+
+# Footer config
+[params.footer]
+  enable = true
+  # uBlogger NEW | 0.2.0 Custom content (HTML format is supported)
+  custom = ''
+  # uBlogger NEW | 0.2.0 whether to show Hugo and theme info
+  hugo = false
+  # uBlogger NEW | 0.2.0 whether to show copyright info
+  copyright = true
+  # uBlogger NEW | 0.2.0 whether to show the author
+  author = true
+  # Site creation time
+  since = 2019
+  # license info (HTML format is supported)
+  license = '<a rel="Licencia Creative Commons Atribución-No comercial-Internacional" href="https://creativecommons.org/licenses/by-nc/4.0/deed.es" target="_blank">CC BY-NC 4.0</a>'
+
+# Home page config
+[params.home]
+  # uBlogger NEW | 0.2.0 amount of RSS pages
+  rss = 10
+  # Home page profile
+  [params.home.profile]
+    enable = true
+    # Gravatar Email for preferred avatar in home page
+    gravatarEmail = "escuelaramonfdez@riseup.net"
+    # URL of avatar shown in home page
+    avatarURL = "/img/avatar.png"
+    # uBlogger CHANGED | 0.2.7 title shown in home page (HTML format is supported)
+    title = "Escuela Ramón Fernández Durán"
+    # subtitle shown in home page
+    subtitle = "La escuela de los Movimientos Sociales"
+    # whether to show social links
+    social = true
+    # uBlogger NEW | 0.2.0 disclaimer (HTML format is supported)
+    disclaimer = ""
+    # whether to use typeit animation for subtitle
+    typeit = true
+  # Home page posts
+  [params.home.posts]
+    enable = true
+    # special amount of posts in each home posts page
+    paginate = 6
+    # uBlogger DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
+    # default behavior when you don't set "hiddenFromHomePage" in front matter
+    defaultHiddenFromHomePage = false
+
+# Social config about the author
+[params.social]
+  GitHub = "escuelaramonfdez"
+  Twitter = "escuelaramonfde"
+  Facebook = "escuela.ramon.fdez.duran"
+
+# Sitemap config
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+
+[params.page]
+  # uBlogger NEW | 1.0.0 main subject for articles, by default classic. more on themes}
+  theme = "classic"
+  # uBlogger NEW | 0.2.0 whether to hide a page from home page
+  hiddenFromHomePage = false
+  # uBlogger NEW | 0.2.0 whether to hide a page from search results
+  hiddenFromSearch = false
+  # uBlogger NEW | 1.2.0 Allows you to hide the preview image on the article page
+  hiddenFeaturedImage = false
+  # uBlogger NEW | 0.2.0 whether to enable twemoji
+  twemoji = false
+  # whether to enable lightgallery
+  lightgallery = false
+  # uBlogger NEW | 0.2.0 whether to enable the ruby extended syntax
+  ruby = true
+  # uBlogger NEW | 0.2.0 whether to enable the fraction extended syntax
+  fraction = true
+  # uBlogger NEW | 0.2.0 whether to enable the fontawesome extended syntax
+  fontawesome = true
+  # whether to show link to Raw Markdown content of the content
+  linkToMarkdown = true
+  # uBlogger NEW | 0.2.4 whether to show the full text content in RSS
+  rssFullText = false
+  # uBlogger NEW | 0.2.0 Table of the contents config
+  [params.page.toc]
+    # whether to enable the table of the contents
+    enable = false
+    # uBlogger NEW | 0.2.9 whether to keep the static table of the contents in front of the post
+    keepStatic = false
+    # whether to make the table of the contents in the sidebar automatically collapsed
+    auto = false
+  # uBlogger CHANGED | 0.2.0 social share links in post page
+  [params.page.share]
+    enable = true
+    Twitter = true
+    Facebook = true
+    Linkedin = false
+    Whatsapp = true
+    Pinterest = false 
+  # uBlogger NEW | 0.2.0 Mapbox GL JS config
+    [params.page.mapbox]
+      # access token of Mapbox GL JS
+      accessToken = ""
+      # style for the light theme
+      lightStyle = "mapbox://styles/mapbox/light-v9"
+      # style for the dark theme
+      darkStyle = "mapbox://styles/mapbox/dark-v9"
+      # whether to add NavigationControl
+      navigation = true
+      # whether to add GeolocateControl
+      geolocate = true
+      # whether to add ScaleControl
+      scale = true
+      # whether to add FullscreenControl
+      fullscreen = true
+  # uBlogger NEW | 0.2.7 Third-party library config
+  [params.page.library]
+    [params.page.library.css]
+      # someCSS = "some.css"
+      # located in "assets/"
+      # Or
+      someCSS = "https://fonts.googleapis.com/css?family=Raleway:400,600,700|Open+Sans:300,400,600,700,800|Satisfy:400"
+    [params.page.library.js]
+      # someJavascript = "some.js"
+      # located in "assets/"
+      # Or
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Blog"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "contenidos"
+    pre = ""
+    post = ""
+    name = "Contenidos"
+    url = "/contenidos/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "logistica"
+    pre = ""
+    post = ""
+    name = "Logística"
+    url = "/logistica/"
+    title = ""
+    weight = 3
+  [[menu.main]]
+    identifier = "inscripcion"
+    pre = ""
+    post = ""
+    name = "Inscripción"
+    url = "/inscripcion/"
+    title = ""
+    weight = 4
+  [[menu.main]]
+    identifier = "historico"
+    pre = ""
+    post = ""
+    name = "Histórico"
+    url = "/historico/"
+    title = ""
+    weight = 5
+  [[menu.main]]
+    identifier = "contacto"
+    pre = ""
+    post = ""
+    name = "Contacto"
+    url = "/contacto"
+    title = ""
+    weight = 6
