@@ -16,4 +16,3 @@ Y para que no te lo pienses mucho, si te inscribes antes de agosto, te regalamos
 ![Camiseta Ramón](/img/camiseta-ramon.png#center)
 
 A qué esperas, [¡INSCRÍBETE YA!](/inscripcion/)
-
