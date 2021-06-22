@@ -1,6 +1,6 @@
 ---
 title: "Cierre de la Escuela Ramón Fernández Durán 2017"
-date: "2017-04-12 11:05:59 +0200"
+date: 2017-04-12
 ---
 
 Siguiendo con la proyección de años anteriores la Escuela de los Movimientos Sociales Ramón Fernández Durán sigue creciendo en participantes y en contenidos.

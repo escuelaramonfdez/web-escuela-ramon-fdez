@@ -1,10 +1,6 @@
 ---
 title: "Éxito de participación en la 2ª edición de la Escuela Social"
-description: 
-headline: 
 date: 2016-04-24
-tags: []
-imagefeature: 
 ---
 
 

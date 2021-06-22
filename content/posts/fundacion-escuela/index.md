@@ -1,10 +1,6 @@
 ---
-title: "Fundación de la Escuela "
-description: 
-headline: 
+title: "Fundación de la Escuela"
 date: 2015-02-20
-tags: []
-imagefeature: 
 ---
 
 Los colectivos Ecologistas en Acción, CGT y Baladre, hemos decidido fundar una Escuela Social en homenaje a nuestro querido compañero Ramón Fernández Durán. Ramón mantuvo una relación muy estrecha con estos tres colectivos y sirvió de puente de unión en muchas de las luchas de las últimas décadas, especialmente en el Movimiento contra la Europa de Maastricht y la Globalizacion Económica.
@@ -15,6 +11,4 @@ La escuela pretende ser un espacio autogestionado de encuentro y formación regu
 
 ¡Contamos contigo!
 
-<div style="text-align:center">
-<img src="/images/ramon2.jpg" alt="Ramón Fernández Durán en Cochabamba"/>
-</div>
+![Ramón en Cochabamba](/img/ramon2.jpg#center)

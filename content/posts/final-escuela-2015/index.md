@@ -1,10 +1,7 @@
 ---
 title: "Concluye con éxito la primera edición de la Escuela Social"
-description: Colectivos y movimientos sociales de todo el país han abordado temas de actualidad como el municipalismo, el TTIP o el colapso energético del 2 al 5 de abril en Monleras (Salamanca).
-headline: 
+description: "Colectivos y movimientos sociales de todo el país han abordado temas de actualidad como el municipalismo, el TTIP o el colapso energético del 2 al 5 de abril en Monleras (Salamanca)."
 date: 2015-04-06
-tags: []
-imagefeature: 
 ---
 
 Colectivos y movimientos sociales de todo el país han abordado temas de actualidad como el colapso energético, el TTIP o el municipalismo en la primera edición de la Escuela Social Ramón Fernández Durán celebrada en Monleras del 2 al 5 de abril. 

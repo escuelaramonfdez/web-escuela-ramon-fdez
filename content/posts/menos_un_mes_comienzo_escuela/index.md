@@ -1,10 +1,6 @@
 ---
-title: "Menos de un mes para la 2ª edición de Escuela Social Ramón Fernández Durán"
-description: 
-headline: 
-date: 2016-03-4
-tags: []
-imagefeature: 
+title: "Menos de un mes para la segunda edición de Escuela Social Ramón Fernández Durán"
+date: 2016-03-04
 ---
 
 <img class="figure" src="/images/cartel_escuela_2016.jpg" alt="Cartel Escuela Social 2ª Edición"/>

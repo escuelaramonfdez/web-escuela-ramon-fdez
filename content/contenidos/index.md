@@ -7,9 +7,9 @@ description: Contenidos de la Escuela Social Ramón Fernández Durán 2021
 
 ## Viernes 17 de septiembre
 
-19:00 - 20:00 Presntación del proyecto Basoa de Artea 
+18:00 - 19:00 Bienvenida
 
-20:00 - 21:00 Homenaje a Ramón Fernández Durán 
+19:00 - 21:00 Homenaje a Ramón Fernández Durán 
 
 21:30 - 22:30 Cena
 

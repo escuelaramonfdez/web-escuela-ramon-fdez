@@ -124,14 +124,13 @@ theme = "LoveIt"
   linkToMarkdown = true
   # uBlogger NEW | 0.2.4 whether to show the full text content in RSS
   rssFullText = false
-  # uBlogger NEW | 0.2.0 Table of the contents config
   [params.page.toc]
     # whether to enable the table of the contents
     enable = false
-    # uBlogger NEW | 0.2.9 whether to keep the static table of the contents in front of the post
+    # LoveIt NEW | 0.2.9 whether to keep the static table of the contents in front of the post
     keepStatic = false
     # whether to make the table of the contents in the sidebar automatically collapsed
-    auto = false
+    auto = true
   # uBlogger CHANGED | 0.2.0 social share links in post page
   [params.page.share]
     enable = true
@@ -140,22 +139,22 @@ theme = "LoveIt"
     Linkedin = false
     Whatsapp = true
     Pinterest = false 
-  # uBlogger NEW | 0.2.0 Mapbox GL JS config
-    [params.page.mapbox]
-      # access token of Mapbox GL JS
-      accessToken = ""
-      # style for the light theme
-      lightStyle = "mapbox://styles/mapbox/light-v9"
-      # style for the dark theme
-      darkStyle = "mapbox://styles/mapbox/dark-v9"
-      # whether to add NavigationControl
-      navigation = true
-      # whether to add GeolocateControl
-      geolocate = true
-      # whether to add ScaleControl
-      scale = true
-      # whether to add FullscreenControl
-      fullscreen = true
+  # LoveIt NEW | 0.2.0 Mapbox GL JS config
+  [params.page.mapbox]
+    # access token of Mapbox GL JS
+    accessToken = "pk.eyJ1IjoiYXNhbGJlciIsImEiOiJ3bTRrN3JnIn0.zys5YxJbLU-w93nEx5IdEQ"
+    # style for the light theme
+    lightStyle = "mapbox://styles/mapbox/light-v9"
+    # style for the dark theme
+    darkStyle = "mapbox://styles/mapbox/dark-v9"
+    # whether to add NavigationControl
+    navigation = true
+    # whether to add GeolocateControl
+    geolocate = true
+    # whether to add ScaleControl
+    scale = true
+    # whether to add FullscreenControl
+    fullscreen = true
   # uBlogger NEW | 0.2.7 Third-party library config
   [params.page.library]
     [params.page.library.css]
@@ -170,6 +169,17 @@ theme = "LoveIt"
 
 [menu]
   [[menu.main]]
+    identifier = "presentacion"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Presentación"
+    url = "/presentacion/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
     identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
@@ -179,7 +189,7 @@ theme = "LoveIt"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
-    weight = 1
+    weight = 2
   [[menu.main]]
     identifier = "contenidos"
     pre = ""
@@ -187,7 +197,7 @@ theme = "LoveIt"
     name = "Contenidos"
     url = "/contenidos/"
     title = ""
-    weight = 2
+    weight = 3
   [[menu.main]]
     identifier = "logistica"
     pre = ""
@@ -195,7 +205,7 @@ theme = "LoveIt"
     name = "Logística"
     url = "/logistica/"
     title = ""
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "inscripcion"
     pre = ""
@@ -203,7 +213,7 @@ theme = "LoveIt"
     name = "Inscripción"
     url = "/inscripcion/"
     title = ""
-    weight = 4
+    weight = 5
   [[menu.main]]
     identifier = "historico"
     pre = ""
@@ -211,7 +221,7 @@ theme = "LoveIt"
     name = "Histórico"
     url = "/historico/"
     title = ""
-    weight = 5
+    weight = 6
   [[menu.main]]
     identifier = "contacto"
     pre = ""
@@ -219,4 +229,4 @@ theme = "LoveIt"
     name = "Contacto"
     url = "/contacto"
     title = ""
-    weight = 6
+    weight = 7

@@ -1,6 +1,6 @@
 ---
 title: "Comienza la cuenta atrás para la Escuela Ramón Fernández Durán 2018"
-date: "2018-02-20"
+date: 2018-02-20
 ---
 
 Un año más nos ponemos en marcha para organizar la IV edición de la Escuela Ramón Fernández Durán, la escuela de los movimientos sociales, que se realizaremos del 13 al 15 de abril.
@@ -14,6 +14,6 @@ Y lo más importante, que te inscribas lo antes posible en la [página de inscri
 
 Contamos contigo.
 
-<img class="figure" src="/images/cartel_escuela_2018.jpg" alt="Cartel Escuela Social 4ª Edición"/>
+![Cartel Escuela 2018](/img/cartel_escuela_2018.jpg)
 
-<img class="figure" src="/images/cartel_escuela_2018_b.jpg" alt="Cartel Escuela Social 4ª Edición"/>
+![Cartel Escuela 2018](/img/cartel_escuela_2018_b.jpg)

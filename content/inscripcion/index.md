@@ -11,6 +11,6 @@ _Debe rellenarse este formulario por cada persona inscrita._
 
 Te aconsejamos que no dejes la inscripción para última hora ya que son plazas limitadas.
 
-https://forms.gle/zdqKYqbyR1K9f4uS9
-
+{{< rawhtml >}}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc_SqkvGhFN6lHA0TmD_5jI9MDwp5o24fsdhNW0524fYQj1mQ/viewform?embedded=true" width="640" height="2306" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+{{< /rawhtml >}}
