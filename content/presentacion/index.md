@@ -3,6 +3,8 @@ title: "Presentación de la Escuela Ramón Fernández Durán"
 date: 2019-05-01
 ---
 
+![Cartel escuela 2021](/img/cartel-escuela-2021.jpg#center)
+
 # ¿Qué es la Escuela Ramón Fernández Durán?
 
 La Escuela Social Ramón Fernández Durán surge en homenaje al pensador y activista Ramón Fernández Durán.

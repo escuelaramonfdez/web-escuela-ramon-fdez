@@ -18,12 +18,19 @@ En el proyecto Basoa de Artea (Bizkaia)
 ### Cómo llegar
 
 - En transporte público:
+  - El bus que sale de Bilbao/Zeanuri -con frecuencia cada media hora laborables y una hora festivos- nos deja enfrente de la casa (parada Bildosola). De Gasteiz/Bilbao un autobús al día.
+  - El tren Bilbo-Donosti/Bermeo llega hasta Lemoa. Allí se enlaza con otro autobús hasta la casa o es frecuente continuar en bici por carretera 8,5 km.
 
-- En transporte particular: Si vas a venir en coche y puedes compartirlo comunícalo en el [Foro para compartir vehículos](/compartir-vehiculo.html) que hemos habilitado.
+- En transporte particular: Si vas a venir en coche y puedes compartirlo comunícalo en el foro que aparece más abajo.
 
 # Inscripción
 
 El precio de la inscripción es de 10 € más el coste de las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](../inscripcion) antes del 10 de septiembre.
+
+{{< admonition tip >}}
+Si te inscribes antes de Agosto te regalamos la camiseta de homenaje a Ramón Fernández Durán.
+{{< /admonition >}}
+
 
 # Alojamiento
 
@@ -36,7 +43,7 @@ Si vienes con niña/os habrá ludoteca. Por favor indicar en la ficha de inscrip
 
 # Alimentación
 
-El menú es vegetariano.
+El menú es vegetariano pero prefieres menú vegano indícalo en el formulario de inscripción.
 
 El precio de las comidas será:
 
@@ -46,4 +53,4 @@ El precio de las comidas será:
 
 # Teléfonos de contacto
 
-Si tienes cualquier problema puedes llamarnos a cualquiera de los siguientes teléfonos: 656624528 (Baladre), 689026027 (CGT) o 649843091 (Ecologistas).
+Si tienes cualquier problema puedes llamarnos a cualquiera de los siguientes teléfonos: 656624528 (Baladre), 689026027 (CGT) o 656595591 (Ecologistas).

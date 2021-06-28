@@ -1,6 +1,9 @@
 ---
 title: "Vuelve La Escuela Ramón Fernández Durán"
 date: 2021-06-21
+resources:
+- name: "featured-image"
+  src: "featured-image.jpg"
 ---
 
 Han pasado más de dos años desde nuestra última edición ya que el año pasado, a consecuencia de la pandemia de la COVID, no pudimos celebrar la edición de 2020.

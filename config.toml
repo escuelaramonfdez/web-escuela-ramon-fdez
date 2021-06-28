@@ -8,6 +8,9 @@ title = "Escuela Ramón Fernández Durán"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   # uBlogger theme version
   version = "0.2.X"
@@ -20,7 +23,6 @@ theme = "LoveIt"
   # website images for Open Graph and Twitter Cards
   images = ["/img/logo.png"]
 
-# uBlogger NEW | 0.2.0 Search config
 [params.search]
   enable = true
   # type of search engine ("lunr", "algolia")
@@ -29,18 +31,19 @@ theme = "LoveIt"
   contentLength = 4000
   # placeholder of the search bar
   placeholder = ""
-  # uBlogger NEW | 0.2.1 max number of results length
+  # LoveIt NEW | 0.2.1 max number of results length
   maxResultLength = 10
-  # uBlogger NEW | 0.2.3 snippet length of the result
+  # LoveIt NEW | 0.2.3 snippet length of the result
   snippetLength = 30
-  # uBlogger NEW | 0.2.1 HTML tag name of the highlight part in results
+  # LoveIt NEW | 0.2.1 HTML tag name of the highlight part in results
   highlightTag = "em"
-  # uBlogger NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
+  # LoveIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
   absoluteURL = false
   [params.search.algolia]
     index = ""
     appID = ""
     searchKey = ""
+
 
 # Footer config
 [params.footer]
@@ -166,6 +169,38 @@ theme = "LoveIt"
       # someJavascript = "some.js"
       # located in "assets/"
       # Or
+
+  [params.page.comment]
+    enable = true
+    # Disqus comment config
+    [params.page.comment.disqus]
+      # LoveIt NEW | 0.1.1
+      enable = false
+      # Disqus shortname to use Disqus in posts
+      shortname = ""
+    # Gitalk comment config
+    [params.page.comment.gitalk]
+      # LoveIt NEW | 0.1.1
+      enable = false
+      owner = ""
+      repo = ""
+      clientId = ""
+      clientSecret = ""
+    # Valine comment config
+    [params.page.comment.valine]
+      enable = true
+      appId = ""
+      appKey = ""
+      placeholder = ""
+      avatar = "mp"
+      meta= ""
+      pageSize = 10
+      lang = ""
+      visitor = true
+      recordIP = true
+      highlight = true
+      enableQQ = false
+      serverURLs = ""
 
 [menu]
   [[menu.main]]
