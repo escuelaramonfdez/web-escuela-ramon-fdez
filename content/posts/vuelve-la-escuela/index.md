@@ -16,6 +16,6 @@ La edición de este año será especial por que tenemos muchas ganas de volver a
 
 Y para que no te lo pienses mucho, si te inscribes antes de agosto, te regalamos esta camiseta.
 
-![Camiseta Ramón](/img/camiseta-ramon.png#center)
+![Camiseta Ramón](/img/camiseta-ramon.jpg#center)
 
 A qué esperas, [¡INSCRÍBETE YA!](/inscripcion/)
