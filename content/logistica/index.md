@@ -9,7 +9,7 @@ La edición de 2021 de la Escuela Social Ramón Fernández Durán serña del 17 
 
 ## Lugar
 
-En el proyecto Basoa de Artea (Bizkaia)
+En el proyecto Basoa de Artea (Bizkaia). Si quieres saber más sobre este proyecto haz clic [aquí](/docs/proyecto-basoa.pdf).
 
 {{< rawhtml >}}
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23288.218574180326!2d-2.7963808525149694!3d43.14595555777637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4e4aad953a7835%3A0x4ef6706c20a0d20!2sLugar%20Barrio%20Bildosola%2C%203%2C%2048142%20Bildosola%2C%20Vizcaya!5e0!3m2!1ses!2ses!4v1624378542219!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -29,6 +29,8 @@ El precio de la inscripción es de 10 € más el coste de las comidas que elija
 
 {{< admonition tip >}}
 Si te inscribes antes de Agosto te regalamos la camiseta de homenaje a Ramón Fernández Durán.
+
+![Camiseta Ramón](/img/camiseta-ramon.jpg)
 {{< /admonition >}}
 
 
@@ -43,7 +45,7 @@ Si vienes con niña/os habrá ludoteca. Por favor indicar en la ficha de inscrip
 
 # Alimentación
 
-El menú es vegetariano pero prefieres menú vegano indícalo en el formulario de inscripción.
+El menú es vegetariano pero si prefieres menú vegano indícalo en el formulario de inscripción.
 
 El precio de las comidas será:
 
