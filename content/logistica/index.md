@@ -27,13 +27,6 @@ En el proyecto Basoa de Artea (Bizkaia). Si quieres saber más sobre este proyec
 
 El precio de la inscripción es de 10 € más el coste de las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](../inscripcion) antes del 10 de septiembre.
 
-{{< admonition tip >}}
-Si te inscribes antes de Agosto te regalamos la camiseta de homenaje a Ramón Fernández Durán.
-
-![Camiseta Ramón](/img/camiseta-ramon.jpg)
-{{< /admonition >}}
-
-
 # Alojamiento
 
 - En litera con saco de dormir (12€ por noche).
@@ -56,3 +49,5 @@ El precio de las comidas será:
 # Teléfonos de contacto
 
 Si tienes cualquier problema puedes llamarnos a cualquiera de los siguientes teléfonos: 656624528 (Baladre), 689026027 (CGT) o 656595591 (Ecologistas).
+
+## Foro para compartir vehículo

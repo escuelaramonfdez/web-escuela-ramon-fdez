@@ -23,7 +23,7 @@ description: Contenidos de la Escuela Social Ramón Fernández Durán 2021
 
 10:00 - 11:45 [Estrategias frente al colapso exitosas en la pandemia](#taller1)
 
-- Inmigración: Asamblea de Apoyo a Personas Migrantes de Tenerife.
+- Inmigración: Asamblea Canaria por el Reparto de la Riqueza.
 - Salud mental y autogestión de la salud: Beleño. Grupo de estudios locos.
 - Redes vecinales y Puntos de Información: La Villana (Madrid)
 - Pensiones: Movimientos en defensa de las pensiones públicas COESPE de Madrid y Balears.
