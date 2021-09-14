@@ -31,6 +31,7 @@ El precio de la inscripción es de 10 € más el coste de las comidas que elija
 
 - En litera con saco de dormir (12€ por noche).
 - En tienda de campaña (la voluntad).
+- **Novedad**: En albergue (Benta de Artea) a 3km del Proyecto Basoa (40€ noche habitación doble y 27.5€ noche habitación individual)
 
 # Niña/os
 
