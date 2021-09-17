@@ -7,13 +7,13 @@ description: Contenidos de la Escuela Social Ramón Fernández Durán 2021
 
 ## Viernes 17 de septiembre
 
-18:00 - 19:00 Bienvenida.
+19:00 - 20:00 Bienvenida.
 
-19:00 - 20:00 Presentación del proyecto local.
+20:00 - 21:00 Presentación del proyecto local.
 
-20:00 - 21:00 Homenaje a Ramón Fernández Durán.
+21:00 - 22:00 Cena
 
-21:30 - 22:30 Cena
+22:00 - 23:00 Homenaje a Ramón Fernández Durán.
 
 ## Sábado 18 de septiembre
 
