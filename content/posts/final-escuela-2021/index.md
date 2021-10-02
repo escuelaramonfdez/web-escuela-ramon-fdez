@@ -18,7 +18,7 @@ Había ganas de volverse a ver y compartir lo vivido durante la pandemia y eso s
 
 Queremos agradecer al proyecto Basoa su hospitalidad y la posibilidad de conocer en persona un proyecto tan potente como el suyo. 
 
-Finalmente, os dejamos con algunas fotos del encuentro.
+Finalmente, os dejamos con la [presentación en recuerdo de Ramón Fernández Durán](https://escuelaramonfdez.org/homenaje-ramon/) y algunas fotos del encuentro.
 
 {{< gallery dir="/img/2021" />}}
 
