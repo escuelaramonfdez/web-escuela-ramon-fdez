@@ -16,6 +16,10 @@ Había ganas de volverse a ver y compartir lo vivido durante la pandemia y eso s
 
 {{< gallery dir="/img/2021/conclusiones/" />}}
 
+Y estas fueron las palabras más repetidas durante la escuela.
+
+{{< figure src="/img/2021/nube palabras.jpg" >}}
+
 Queremos agradecer al proyecto Basoa su hospitalidad y la posibilidad de conocer en persona un proyecto tan potente como el suyo. 
 
 Finalmente, os dejamos con la [presentación en recuerdo de Ramón Fernández Durán](https://escuelaramonfdez.org/homenaje-ramon/) y algunas fotos del encuentro.
