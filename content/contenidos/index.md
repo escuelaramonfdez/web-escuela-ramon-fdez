@@ -1,74 +1,84 @@
 ---
 title: Contenidos
-description: Contenidos de la Escuela Social Ramón Fernández Durán 2021
+description: Contenidos de la Escuela Social Ramón Fernández Durán 2022
 ---
+
+La temática de la escuela girará en torno a los contenidos de la exposición ["Para la guerra nada, para la vida todo"](https://www.ecologistasenaccion.org/201188/exposicion-para-la-guerra-nada-para-la-vida-todo/).
 
 # Programa
 
-## Viernes 17 de septiembre
+## Viernes 7 de octubre
 
-19:00 - 20:00 Bienvenida.
+19:00 - 20:00 Recepción de participantes.
 
-20:00 - 21:00 Presentación del proyecto local.
+20:00 - 20:30 Presentación de la Escuela Ramón Fernández Durán.
 
-21:00 - 22:00 Cena
+20:30 - 21:00 Conectando luchas: resistencias frente al capitalismo digital y sus diversas implicaciones. Miguel Guardado Albarreal, de Comuna Digital.
 
-22:00 - 23:00 Homenaje a Ramón Fernández Durán.
+21:00 Cena
 
-## Sábado 18 de septiembre
+22:00 - 23:00 Exposición sobre el archivo del MOC Sevilla en [La Digitalizadora de la Memoria Colectiva](https://ladigitalizadora.org/). "Pacifismo, resistencia y cintas de vídeo"
 
-9:00 - 9:30 Desayuno
-
-9:30 Presentación de la temática de este curso
-
-10:00 - 11:45 [Estrategias frente al colapso exitosas en la pandemia](#taller1)
-
-- Inmigración: Asamblea Canaria por el Reparto de la Riqueza.
-- Salud mental y autogestión de la salud: Beleño. Grupo de estudios locos.
-- Redes vecinales y Puntos de Información: La Villana (Madrid)
-- Pensiones: Movimientos en defensa de las pensiones públicas COESPE de Madrid y Balears.
-- Feminismo: Caja de resistencia feministas de mujeres migrantes y racializadas. Trabajadoras No Domesticadas.
-
-11:45 - 12:00 Café
-
-12:00 -14:00 Puesta en común y debate abierto en asamblea.
-
-14:00-16:00 Comida
-
-16:00 - 17:30 [Análisis de nuestras estrategias frente al colapso durante la pandemia](#taller2)  
-Analizamos las principales estrategias de lucha de Baladre, CGT y Ecologistas durante la pandemia, y las contraponemos a las estrategias presentadas en la mañana.
-
-17:30 - 18:00 Café
-
-18:00 - 19:15 Trabajo en grupos
-
-19:15 - 20:00 Puesta en común y debate
-
-21:00 - 22:00 Cena
-
-## Domingo 19 de septiembre
+## Sábado 8 de octubre
 
 9:00 - 9:30 Desayuno
 
-9:30 - 10:45 [Diseño de estrategias conjuntas frente al colapso para un futuro post-covid](#taller3)  
-Partimos de los aprendizajes de las sesiones anteriores para diseñar estrategias de lucha y movilización conjunta que aborden las principales crisis del colapso.
+**Bloque 1: Colonialismo y control de recursos. Militarismo y crisis ambiental.**
 
-10:45 - 11:45 Trabajo en grupos
+9:30 Mesa introductoria
 
-11:45 - 12:00 Café
+10:00 Trabajo en grupos
 
-12:00 - 13:00 Puesta en común
+12:00 Puesta en común
 
-13:00 - 14:00 Evaluación y despedida
+12:30 Descanso
 
-14:00 - 16:00 Comida
+**Bloque 2: Migraciones, militarización de fronteras y securitización de nuestras vidas.**
 
-# Talleres
+13:00 Mesa introductoria
 
+14:00 Comida
 
+16:00 Trabajo en grupos
+
+17:00 Puesta en común
+
+17:30 Descanso
+
+**Bloque 3: Militarismo y Patriarcado**
+
+17:45 Mesa introductoria
+
+18:15 Trabajo en grupos
+
+20:00 Puesta en común
+
+21:00 Cena
+
+22:00 Velada
+
+## Domingo 9 de octubre
+
+9:00 Desayuno
+
+**Bloque 4: Todo el gasto militar para la vida de todas**
+
+9:30 Mesa introductoria
+
+10:00 Trabajo en grupos
+
+12:00 Puesta en común
+
+12:30 Descanso
+
+12:45 Evaluación y cierre
+
+13:30 Comida
 
 # Metodología
 
 Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas.
+
+
 
 

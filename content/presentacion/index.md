@@ -1,9 +1,9 @@
 ---
 title: "Presentación de la Escuela Ramón Fernández Durán"
-date: 2019-05-01
+date: 2022-07-28
 ---
 
-![Cartel escuela 2021](/img/cartel-escuela-2021.jpg#center)
+![Cartel escuela 2022](/img/cartel-escuela-2022.jpg#center)
 
 # ¿Qué es la Escuela Ramón Fernández Durán?
 
