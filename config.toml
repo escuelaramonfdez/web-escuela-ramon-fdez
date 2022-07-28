@@ -15,7 +15,7 @@ theme = "LoveIt"
   # uBlogger theme version
   version = "0.2.X"
   # site description
-  description = "This is My New Hugo Site"
+  description = "La escuela de los movimientos sociales"
   # site keywords
   keywords = ["Escuela", "Movimientos Sociales", "Ecologistas en Acción", "Baladre", "CGT"]
   # uBlogger NEW | 0.2.0 date format
