@@ -44,6 +44,24 @@ theme = "LoveIt"
     appID = ""
     searchKey = ""
 
+ # Header config
+  [params.header]
+    # desktop header mode ["fixed", "normal", "auto"]
+    desktopMode = "fixed"
+    # mobile header mode ["fixed", "normal", "auto"]
+    mobileMode = "auto"
+    # Header title config
+    [params.header.title]
+      # URL of the LOGO
+      logo = "/img/logo.png"
+      # title name
+      name = "Escuela Ramón Fernández Durán"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      # whether to use typeit animation for title name
+      typeit = false
 
 # Footer config
 [params.footer]
