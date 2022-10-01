@@ -82,7 +82,7 @@ Por la noche:
 
 - Saco de dormir
 
-- Colchoneta y/o esterilla-aislante  (El equipo organizador de Morón intentará conseguir colchonetas para dormir en el polideportivo, pero no puede garantizar que sean suficientes. Por lo tanto, y para evitar sorpresas, se recomienda que cada participante traiga la suya, si le interesa).
+- Colchoneta y/o esterilla-aislante.
 
 - En esas fechas, el tiempo en Morón puede ser imprevisible. Podemos encontrarnos con temperaturas altas ("el veranillo de San Miguel" o "del membrillo") o bien con lluvias y temperaturas suaves que ya marcan la entrada del otoño. Se aconseja traer ropa adecuada para ambos escenarios.
 
