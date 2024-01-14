@@ -1,6 +1,6 @@
 ---
 title: Edición de 2021
-description: Edición de la Escuela Social Ramón Fernández Durán de 2019
+description: Edición de la Escuela Social Ramón Fernández Durán de 2021
 ---
 
 ![Cartel Escuela 2021](./cartel-escuela-2021.jpg#center)
@@ -69,7 +69,9 @@ Partimos de los aprendizajes de las sesiones anteriores para diseñar estrategia
 
 Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas.
 
-# Fechas
+# Logística
+
+## Fechas
 
 La edición de 2021 de la Escuela Social Ramón Fernández Durán serña del 17 al 19 de septiembre.
 
@@ -112,9 +114,3 @@ El precio de las comidas será:
 - Desayuno: 4€.
 - Comida: 9€.
 - Cena: 9€.
-
-# Teléfonos de contacto
-
-Si tienes cualquier problema puedes llamarnos a cualquiera de los siguientes teléfonos: 656624528 (Baladre), 689026027 (CGT) o 656595591 (Ecologistas).
-
-# Fotos

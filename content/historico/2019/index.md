@@ -155,9 +155,3 @@ El precio de las comidas será:
 - Cena: 8€.
 
 Estos precios incluyen el café de los descansos entre sesiones.
-
-## Teléfonos de contacto
-
-Si tienes cualquier problema puedes llamarnos a cualquiera de los siguientes teléfonos: 656624528 (Baladre), 689026027 (CGT) o 649843091 (Ecologistas).
-
-# Fotos

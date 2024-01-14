@@ -72,5 +72,3 @@ Los precios de cada comida serán los siguientes:
 - Comida: 7€
 - Cena: 6€
 
-# Fotos
-
