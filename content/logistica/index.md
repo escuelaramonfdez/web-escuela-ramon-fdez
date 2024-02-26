@@ -1,6 +1,7 @@
 ---
 title: Logística
 description: Logística de la Escuela Social Ramón Fernández Durán 2021
+lang: es
 ---
 
 # Fechas
@@ -23,7 +24,11 @@ Si vienes en tu vehículo particular y dispones de plazas libres en tu vehículo
 
 # Alojamiento
 
-- Alojamiento colectivo en la propia ecoaldea en habitaciones compartidas (6 u 8 plazas).
+Exsiten distintas opciones de alojamiento:
+
+- Alojamiento en apartamento individual (solo para casos justificados).
+- Alojamiento en apartamento compartido.
+- Alojamiento colectivo en albergue en la propia ecoaldea en habitaciones compartidas (6 u 8 plazas).
 - Zona de acampada.
 
 # Niña/os

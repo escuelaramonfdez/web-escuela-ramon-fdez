@@ -4,9 +4,8 @@ date: 2022-08-05
 resources:
 - name: "featured-image"
   src: "featured-image.png"
+lang: es
 ---
-
-<!-- LTeX: language=es -->
 
 El Centro Social Julio Vélez de Morón acoge la VII Escuela de Movimientos Sociales "Ramón Fernández Durán" que se celebrará del 7 al 9 de octubre en la ciudad del Gallo para compartir reflexiones y fortalecer lazos ciudadanos que nos unan en la acción social colectiva y transformadora. Para soñar mundos donde la justicia social, la igualdad, el respeto por el medio ambiente y las personas sean utopías a alcanzar.
 
