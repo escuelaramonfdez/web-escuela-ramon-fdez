@@ -111,4 +111,3 @@ Algunas preguntas que pueden ayudar a la reflexión y trabajo en grupo:
 
 Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas.
 
-
