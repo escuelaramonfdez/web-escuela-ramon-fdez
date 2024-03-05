@@ -72,7 +72,7 @@ Este modelo nace en Japón en los años 60 y hoy en día está extendido por tod
 
 La clave de este tipo de iniciativas está en entender la alimentación sana y accesible para todas como un derecho y los alimentos como un bien común a gestionar entre todas y no una mera mercancía. Desde esa perspectiva, se construyen formas de producción y de consumo que ponen como prioridad un acceso a la alimentación que genere condiciones sanas y justas para todas las personas y para los ecosistemas que habitan. Supone romper con una lógica individualista y desarrollista, recuperando otras formas de hacer y de construir desde lo local en clave de justicia social y gestión comunitaria.
 
-Introdución de la temática: ZambraEH-Bizilur, Verdeterra-Xátiva, Asdecoba-Salamanca. 
+Introdución de la temática: Isa Álvarez (ZambraEH-Bizilur), Verdeterra-Xátiva, Asdecoba-Salamanca. 
 
 ## Taller 2: Criminalización de espacios y vidas de las personas {#taller2}
 
@@ -84,13 +84,15 @@ Todo se supedita al sometimiento de personas y tierras que han de dejar sus espa
 
 La muerte y el dolor, la soledad y la precariedad, la desertización, la sobreexplotación y el abandono, se convierten en consecuencias significativas de la criminalización ejercida.
 
-Introducción de la temática: Migraciones ( ), cárcel (Salhaketa-Nafarroa), espacio rural ( ), Ecologismo (Futuro Vegetal).
+Introducción de la temática: Migraciones (Gabriela Frías - CEMDRI), cárcel (Salhaketa-Nafarroa), espacio rural (Tierra Papel Tijera), ecologismo (Futuro Vegetal).
 
 ## Taller 3: De la justicia restaurativa a la justicia comunitaria {#taller3}
 
 Las respuestas estatales a la violencia reproducen la violencia y a menudo traumatizan a quienes están expuestas a ellas, especialmente a las comunidades oprimidas que ya son perseguidas por el Estado (como vimos en el taller anterior). Por eso queremos optar por la justicia comunitaria y avanzar hacia una verdadera transformación del comportamiento y las condiciones violentas. 
 
 Construyendo valores, prácticas, relaciones y el mundo que queremos, en comunidad. Las respuestas de la Justicia transformativa son una oportunidad para que no solo abordemos los incidentes de violencia, daño y abuso, sino también para evaluar y construir colectivamente los tipos de relaciones y comunidades que podrían intervenir en casos de violencia, así como también prevenir la misma. 
+
+Introducción de la temática: Alicia Alonso (Baladre), Luis Rico (Ecologistas en Acción).
 
 Algunas preguntas que pueden ayudar a la reflexión y trabajo en grupo:
 
