@@ -1,9 +1,9 @@
 ---
-title: "Retomamos la Escuela Ramón Fernández Durán"
+title: Retomamos la Escuela Ramón Fernández Durán
 date: 2024-02-26
 resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
+  - name: featured-image
+    src: featured-image.jpg
 lang: es
 ---
 

@@ -3,7 +3,6 @@ baseURL = "https://escuelaramonfdez.org"
 defaultContentLanguage = "es"
 # language code
 languageCode = "es"
-title = "Escuela Ramón Fernández Durán"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -14,6 +13,8 @@ theme = "LoveIt"
 [params]
   # uBlogger theme version
   version = "0.2.X"
+  # Site title for Open Graph and Twitter Cards
+  title = "Escuela Ramón Fernández Durán"
   # site description
   description = "La escuela de los movimientos sociales"
   # site keywords

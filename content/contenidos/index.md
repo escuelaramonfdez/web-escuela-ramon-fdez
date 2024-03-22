@@ -92,7 +92,7 @@ Las respuestas estatales a la violencia reproducen la violencia y a menudo traum
 
 Construyendo valores, prácticas, relaciones y el mundo que queremos, en comunidad. Las respuestas de la Justicia transformativa son una oportunidad para que no solo abordemos los incidentes de violencia, daño y abuso, sino también para evaluar y construir colectivamente los tipos de relaciones y comunidades que podrían intervenir en casos de violencia, así como también prevenir la misma. 
 
-Introducción de la temática: Alicia Alonso (Baladre), Luis Rico (Ecologistas en Acción).
+Introducción de la temática: Alicia Alonso (Baladre), Ana Gordaliza (educadora social), Luis Rico (Ecologistas en Acción).
 
 Algunas preguntas que pueden ayudar a la reflexión y trabajo en grupo:
 
@@ -112,4 +112,3 @@ Algunas preguntas que pueden ayudar a la reflexión y trabajo en grupo:
 # Metodología
 
 Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas.
-
