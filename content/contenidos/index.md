@@ -20,7 +20,7 @@ Sentir y compartir esta situación nos ha de llevar a poder encontrar y poner en
 
 21:00 Cena.
 
-22:00-23:00 Presentación del proyecto Arterra Bizimodu.
+22:00-23:00 Teatro foro a cargo del grupo de teatro Cactus.
 
 ## Sábado 13 de abril
 
@@ -44,7 +44,9 @@ Sentir y compartir esta situación nos ha de llevar a poder encontrar y poner en
 
 21:00-22:00 Cena.
 
-22:00 Velada.
+22:00 Presentación del proyecto Arterra Bizimodu.
+
+23:00 Velada.
 
 ## Domingo 14 de abril
 

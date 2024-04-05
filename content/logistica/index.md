@@ -51,7 +51,7 @@ El precio de las comidas será:
 
 # Inscripción
 
-El precio de la inscripción es de 10 € más el coste del alojmaiento y las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](../inscripcion) antes del 31 de marzo.
+El precio de la inscripción es de 10 € más el coste del alojmaiento y las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](../inscripcion) antes del lunes 8 de abril.
 
 # Teléfonos de contacto
 

@@ -4,7 +4,7 @@ description: "Inscripción en la Escuela Social Ramón Fernández Durán 2021"
 lang: es
 ---
 
-Para inscribirte en esta edición 2024 debes rellenar el formulario que aparece más abajo antes del 31 de marzo.
+Para inscribirte en esta edición 2024 debes rellenar el formulario que aparece más abajo antes del 8 de abril.
 
 Tras la inscripción recibirás un correo electrónico con la confirmación y la cantidad que tienes que abonar a la cuenta **ES77 1491 0001 2710 3446 5110**
  a nombre de Berta Iglesias Varela, indicando los nombres de las personas inscritas.
