@@ -74,7 +74,15 @@ Este modelo nace en Japón en los años 60 y hoy en día está extendido por tod
 
 La clave de este tipo de iniciativas está en entender la alimentación sana y accesible para todas como un derecho y los alimentos como un bien común a gestionar entre todas y no una mera mercancía. Desde esa perspectiva, se construyen formas de producción y de consumo que ponen como prioridad un acceso a la alimentación que genere condiciones sanas y justas para todas las personas y para los ecosistemas que habitan. Supone romper con una lógica individualista y desarrollista, recuperando otras formas de hacer y de construir desde lo local en clave de justicia social y gestión comunitaria.
 
-Introdución de la temática: Isa Álvarez (ZambraEH-Bizilur), Verdeterra-Xátiva, Asdecoba-Salamanca. 
+Introdución de la temática: Isa Álvarez (ZambraEH-Bizilur), Emiliano y María (Asdecoba-Salamanca). 
+
+### Conclusiones
+Tras conocer dos experiencias de implementación de la Agricultura Sostenida por la Comunidad (ASC) en Salamanca y en Bizilur, se trabajó en grupos sobre los amores, odios, miedos y retos que despertaban estos tipos de iniciativas.
+
+![Conclusiones Grupo 1](img/alimentacion-1.jpg)
+![Conclusiones Grupo 2](img/alimentacion-2.jpg)
+![Conclusiones Grupo 3](img/alimentacion-3.jpg)
+![Conclusiones Grupo 4](img/alimentacion-4.jpg)
 
 ## Taller 2: Criminalización de espacios y vidas de las personas {#taller2}
 
@@ -88,6 +96,14 @@ La muerte y el dolor, la soledad y la precariedad, la desertización, la sobreex
 
 Introducción de la temática: Migraciones (Gabriela Frías - CEMDRI), cárcel (Salhaketa-Nafarroa), espacio rural (Tierra Papel Tijera), ecologismo (Futuro Vegetal).
 
+### Conclusiones
+
+![Migraciones](img/represion-migrantes.jpg#center)
+![Cárcel](img/represion-carcel.jpg)
+![Espacio rural](img/represion-medio-rural.jpg)
+![Ecologismo](img/represion-ecologismo.jpg)
+
+
 ## Taller 3: De la justicia restaurativa a la justicia comunitaria {#taller3}
 
 Las respuestas estatales a la violencia reproducen la violencia y a menudo traumatizan a quienes están expuestas a ellas, especialmente a las comunidades oprimidas que ya son perseguidas por el Estado (como vimos en el taller anterior). Por eso queremos optar por la justicia comunitaria y avanzar hacia una verdadera transformación del comportamiento y las condiciones violentas. 
@@ -96,20 +112,29 @@ Construyendo valores, prácticas, relaciones y el mundo que queremos, en comunid
 
 Introducción de la temática: Alicia Alonso (Baladre), Ana Gordaliza (educadora social), Luis Rico (Ecologistas en Acción).
 
-Algunas preguntas que pueden ayudar a la reflexión y trabajo en grupo:
+### Conclusiones
 
-- ¿Qué tipo de infraestructura comunitaria podemos crear para respaldar una mayor seguridad, transparencia, sostenibilidad, atención y conexión (por ejemplo, una red de casas seguras comunitarias que puedan utilizar quienes están en peligro, una gran cantidad de miembros de la comunidad que estén capacitadas para liderar intervenciones contra la violencia)?
+Se trabajó en grupos sobre las siguientes preguntas:
 
 - ¿Cuáles son las habilidades que necesitamos para poder prevenir, responder, sanar y responsabilizarnos por conductas dañinas, violentas y abusivas?
 
+![Conclusiones Grupo 1](img/justicia-transformativa-habilidades.jpg)
+
 - ¿Qué necesitan las sobrevivientes y las personas que han causado daño?
+
+![Conclusiones Grupo 2](img/justicia-transformativa-necesidades.jpg)
   
 - ¿Por qué las sobrevivientes y las personas que han causado daño tienen tan pocas opciones en nuestra comunidad?
+
+![Conclusiones Grupo 3](img/justicia-transformativa-opciones.jpg)
   
 - ¿Cuáles son algunas de las formas dañinas en que nos tratamos unas a otras que ayudan a preparar el terreno para la violencia y el abuso, y cómo podemos cambiar esto?
 
-- ¿Qué mecanismos podemos articular en nuestros colectivos para prevenir abusos y violencias?
+![Conclusiones Grupo 4](img/justicia-transformativa-formas-dañinas.jpg)
 
+- ¿Qué mecanismos podemos articular en nuestros colectivos para prevenir abusos y violencias? ¿Qué tipo de infraestructura comunitaria podemos crear para respaldar una mayor seguridad, transparencia, sostenibilidad, atención y conexión (por ejemplo, una red de casas seguras comunitarias que puedan utilizar quienes están en peligro, una gran cantidad de miembros de la comunidad que estén capacitadas para liderar intervenciones contra la violencia)?
+
+![Conclusiones Grupo 5](img/justicia-transformativa-mecanismos-preventivos.jpg)
 
 # Metodología
 
