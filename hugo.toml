@@ -3,26 +3,32 @@ baseURL = "https://escuelaramonfdez.org"
 defaultContentLanguage = "es"
 # language code
 languageCode = "es"
+# language name
+languageName = "Español"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
+
+title = "Escuela Ramón Fernández Durán"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  # uBlogger theme version
-  version = "0.2.X"
-  # Site title for Open Graph and Twitter Cards
-  title = "Escuela Ramón Fernández Durán"
   # site description
   description = "La escuela de los movimientos sociales"
   # site keywords
   keywords = ["Escuela", "Movimientos Sociales", "Ecologistas en Acción", "Baladre", "CGT"]
-  # uBlogger NEW | 0.2.0 date format
+  # date format
   dateFormat = "02-01-2006"
   # website images for Open Graph and Twitter Cards
   images = ["/img/logo.png"]
+
+# Author config
+  [params.author]
+    name = "Editor"
+    email = "escueraramonfdez@riseup.net"
+    link = ""
 
 [params.search]
   enable = true
@@ -67,23 +73,21 @@ theme = "LoveIt"
 # Footer config
 [params.footer]
   enable = true
-  # uBlogger NEW | 0.2.0 Custom content (HTML format is supported)
+  # Custom content (HTML format is supported)
   custom = ''
-  # uBlogger NEW | 0.2.0 whether to show Hugo and theme info
-  hugo = false
-  # uBlogger NEW | 0.2.0 whether to show copyright info
+  # whether to show Hugo and theme info
+  hugo = true
+  # whether to show copyright info
   copyright = true
-  # uBlogger NEW | 0.2.0 whether to show the author
-  author = true
+  # whether to show the author
+  author = false
   # Site creation time
-  since = 2019
+  since = 2015
   # license info (HTML format is supported)
   license = '<a rel="Licencia Creative Commons Atribución-No comercial-Internacional" href="https://creativecommons.org/licenses/by-nc/4.0/deed.es" target="_blank">CC BY-NC 4.0</a>'
 
 # Home page config
 [params.home]
-  # uBlogger NEW | 0.2.0 amount of RSS pages
-  rss = 10
   # Home page profile
   [params.home.profile]
     enable = true
@@ -97,7 +101,7 @@ theme = "LoveIt"
     subtitle = "La escuela de los Movimientos Sociales"
     # whether to show social links
     social = true
-    # uBlogger NEW | 0.2.0 disclaimer (HTML format is supported)
+    # disclaimer (HTML format is supported)
     disclaimer = ""
     # whether to use typeit animation for subtitle
     typeit = true
@@ -112,9 +116,42 @@ theme = "LoveIt"
 
 # Social config about the author
 [params.social]
-  GitHub = "escuelaramonfdez"
-  Twitter = "escuelaramonfde"
-  Facebook = "escuela.ramon.fdez.duran"
+  [params.social.Mastodon]
+    # weight when arranging icons (the greater the weight, the later the icon is positioned)
+    weight = 0
+    # your social ID
+    id = "@escuelaramonfdez"
+    # prefix of your social link
+    prefix = "https://mastodon.social/"
+    # content hovering on the icon
+    title = "Mastodon"
+  [params.social.Facebook]
+    # weight when arranging icons (the greater the weight, the later the icon is positioned)
+    weight = 1
+    # your social ID
+    id = "escuela.ramon.fdez.duran"
+    # prefix of your social link
+    #prefix = ""
+    # content hovering on the icon
+    title = "Facebook"
+  [params.social.GitHub]
+    # weight when arranging icons (the greater the weight, the later the icon is positioned)
+    weight = 2
+    # your social ID
+    id = "escuelaramonfdez"
+    # prefix of your social link
+    #prefix = ""
+    # content hovering on the icon
+    title = "GitHub"
+  [params.social.Email]
+    # weight when arranging icons (the greater the weight, the later the icon is positioned)
+    weight = 3
+    # your social ID
+    id = "escuelaramonfdez@riseup.net"
+    # prefix of your social link
+    #prefix = ""
+    # content hovering on the icon
+    title = "Email"
 
 # Sitemap config
 [sitemap]
@@ -124,44 +161,47 @@ theme = "LoveIt"
 
 
 [params.page]
-  # uBlogger NEW | 1.0.0 main subject for articles, by default classic. more on themes}
+  # main subject for articles, by default classic. more on themes}
   theme = "classic"
-  # uBlogger NEW | 0.2.0 whether to hide a page from home page
+  # whether to hide a page from home page
   hiddenFromHomePage = false
-  # uBlogger NEW | 0.2.0 whether to hide a page from search results
+  # whether to hide a page from search results
   hiddenFromSearch = false
-  # uBlogger NEW | 1.2.0 Allows you to hide the preview image on the article page
+  # Allows you to hide the preview image on the article page
   hiddenFeaturedImage = false
-  # uBlogger NEW | 0.2.0 whether to enable twemoji
+  # whether to enable twemoji
   twemoji = false
   # whether to enable lightgallery
   lightgallery = false
-  # uBlogger NEW | 0.2.0 whether to enable the ruby extended syntax
+  # whether to enable the ruby extended syntax
   ruby = true
-  # uBlogger NEW | 0.2.0 whether to enable the fraction extended syntax
+  # whether to enable the fraction extended syntax
   fraction = true
-  # uBlogger NEW | 0.2.0 whether to enable the fontawesome extended syntax
+  # whether to enable the fontawesome extended syntax
   fontawesome = true
   # whether to show link to Raw Markdown content of the content
   linkToMarkdown = true
-  # uBlogger NEW | 0.2.4 whether to show the full text content in RSS
+  # whether to show the full text content in RSS
   rssFullText = false
   [params.page.toc]
     # whether to enable the table of the contents
     enable = false
-    # LoveIt NEW | 0.2.9 whether to keep the static table of the contents in front of the post
+    # whether to keep the static table of the contents in front of the post
     keepStatic = false
     # whether to make the table of the contents in the sidebar automatically collapsed
     auto = true
-  # uBlogger CHANGED | 0.2.0 social share links in post page
+  # social share links in post page
   [params.page.share]
     enable = true
-    Twitter = true
-    Facebook = true
-    Linkedin = false
     Whatsapp = true
-    Pinterest = false 
-  # LoveIt NEW | 0.2.0 Mapbox GL JS config
+    Telegram = true
+    Facebook = true
+    HackerNews = false
+    Line = false
+    Twitter = false
+    Weibo = false
+  
+  # Mapbox GL JS config
   [params.page.mapbox]
     # access token of Mapbox GL JS
     accessToken = "pk.eyJ1IjoiYXNhbGJlciIsImEiOiJ3bTRrN3JnIn0.zys5YxJbLU-w93nEx5IdEQ"
@@ -177,7 +217,8 @@ theme = "LoveIt"
     scale = true
     # whether to add FullscreenControl
     fullscreen = true
-  # uBlogger NEW | 0.2.7 Third-party library config
+  
+  # Third-party library config
   [params.page.library]
     [params.page.library.css]
       # someCSS = "some.css"
@@ -220,6 +261,9 @@ theme = "LoveIt"
       highlight = true
       enableQQ = false
       serverURLs = ""
+    # Commento comment config
+    [params.page.comment.commento]
+        enable = true
 
 [menu]
   [[menu.main]]

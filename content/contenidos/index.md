@@ -1,18 +1,36 @@
 ---
 title: Contenidos
-description: Contenidos de la Escuela Social Ramón Fernández Durán 2022
+description: Contenidos de la Escuela Social Ramón Fernández Durán 2025
 lang: es
 ---
 
-La temática de la escuela girará en torno a la _alimentación sostenida por la comunidad_ y la _justicia transformadora_.
+La temática de la escuela en esta edición será la gestión de las _emergencias_ y las _catástrofes_ relacionadas con procesos de colapso (ambiental, económico, de recursos materiales,...), desde la creación de _redes de apoyo mutuo_.
 
-Queremos y nos planteamos que la reflexión y el diálogo de la escuela de este año, nos acerque a sentir y a compartir cómo en esta sociedad, a grandes grupos sociales de los distintos lugares de nuestro mundo, la criminalización les afecta en sus vidas, y les determina de manera injusta en espacios donde la situación se precariza cada vez más hasta situaciones extremas de no vida.
+Partiremos del análisis de emergencias recientes como La Dana de Valencia o la erupción del volcán Cumbre Vieja o la pandemia de COVID-19, pero también podría ser un apagón, un corte del suministro alimentario,un corralito bancario, un conflicto bélico, etc. El objetivo de trabajo es cómo desarrollar estrategias, herramientas, y/o dinámicas basadas en el apoyo mutuo que permitan satisfacer las necesidades básicas de las personas mediante satisfactores que creen comunidad y resiliencia en estos contextos. Se trata tan solo una aproximación, pues no habrá tiempo de profundizar. El foco también será usar las emergencias relacionadas con el colapso para hacer crecer el tejido social emancipador y los imaginarios ecosociales.
 
-Sentir y compartir esta situación nos ha de llevar a poder encontrar y poner en la mesa, en el ámbito del derecho a la alimentación; en el ámbito de la criminalización de espacios rurales, de la criminalización del ecologismo, de las personas migrantes, de las personas empobrecidas en las cárceles, o de las personas con problemas de salud mental; iniciativas que nos ayuden a dar el paso hacia la necesaria justicia transformadora en comunidad.
+Entre los temas a abordar podrían estar:
+
+- Alimentación
+- Vivienda
+- Salud (tanto física como mental)
+- Transporte
+- Comunicaciones
+- Energía
+
+Durante la escuela se abordará la temática presentada en tres talleres uno para cada una de las fases o momentos de cualquier emergencia: _el antes_, _el durante_ y _el después_. En cada taller se abordarán las mismas preguntas:
+
+- ¿Qué hay que hacer para favorecer una satisfacción de necesidades universal? Se puede focalizar en alguna específica como alimentación, vivienda, salud, transporte o comunicaciones. Cada grupo de trabajo puede abordar una de ellas.
+- ¿Qué hay que hacer para que los imaginarios que se expandan sean los ecosociales y no los de extrema derecha?
+- ¿Qué aprendizajes son necesarios?
+- ¿Qué herramientas y recursos materiales son imprescindibles?
+- ¿Qué infraestructuras necesitamos?
+- ¿Qué tipo de organizaciones?
+- ¿Qué alianzas tenemos que priorizar?
+
 
 # Programa
 
-## Viernes 12 de abril
+## Viernes 23 de mayo
 
 19:00 - 20:00 Recepción de participantes.
 
@@ -20,13 +38,13 @@ Sentir y compartir esta situación nos ha de llevar a poder encontrar y poner en
 
 21:00 Cena.
 
-22:00-23:00 Teatro foro a cargo del grupo de teatro Cactus.
+22:00-23:00 Presentación de experiencias locales o dinámica de presentación de participantes.
 
-## Sábado 13 de abril
+## Sábado 24 de mayo
 
 9:00-10:00 Desayuno
 
-10:00-12:15 [Primer taller: Alimentación Sostenida por la Comunidad, más allá de los grupos de consumo]({{< relref "contenidos.md#taller1" >}}).
+10:00-12:15 [Primer taller: El Antes. Cómo prepararse colectivamente para una emergencia.]({{< relref "contenidos.md#taller1" >}}).
 
 12:15-12:30 Descanso.
 
@@ -34,25 +52,21 @@ Sentir y compartir esta situación nos ha de llevar a poder encontrar y poner en
 
 14:00-16:00 Comida.
 
-16:00-17:30 [Segundo taller: Criminalización de espacios y vidas de las personas]({{< relref "contenidos.md#taller2" >}}).
+16:00-18:00 [Segundo taller: El Durante. Cómo garantizar las necesidades más básicas.]({{< relref "contenidos.md#taller2" >}}).
 
-17:30-18:00 Puesta en común y conclusiones del segundo taller.
+18:00-18:30 Descanso.
 
-18:00-18:15 Descanso.
-
-18:15-20:30 [Tercer taller: De la justicia restaurativa a la justicia comunitaria.]({{< relref "contenidos.md#taller3" >}})
+18:30-20:00 Puesta en común del trabajo de los grupos y conclusiones.
 
 21:00-22:00 Cena.
 
-22:00 Presentación del proyecto Arterra Bizimodu.
+22:30 Velada y fiesta.
 
-23:00 Velada.
-
-## Domingo 14 de abril
+## Domingo 25 de mayo
 
 9:00-10:00 Desayuno.
 
-10:00-12:00 Continuación del tercer taller.
+10:00-12:00 [Tercer taller: El Después. Cómo crear comunidad y estructuras resilientes.]({{< relref "contenidos.md#taller3" >}}).
 
 12:00-12:15 Descanso
 
@@ -64,77 +78,20 @@ Sentir y compartir esta situación nos ha de llevar a poder encontrar y poner en
 
 # Bloques temáticos
 
-## Taller 1: Alimentación Sostenida por la Comunidad {#taller1}
+## Taller 1: El Antes. Cómo prepararse para una emergencia (Dana, volcán, pandemia, apagón, guerra...). {#taller1}
 
-Presentación ¿Qué es la ASC? Marcos, realidad, experiencias y dificultades.
+Introducción a la temática: 
+Bomberos y gente de La Palma. 
 
-La Agricultura Sostenida por la Comunidad supone que personas productoras y no productoras de alimentos se asocien y responsabilicen de su alimentación, colectivizando la producción y asumiendo de forma corresponsable las tareas necesarias para su alimentación.
+## Taller 2: El Durante. Cómo garantizar las necesidades más basicas. {#taller2}
 
-Este modelo nace en Japón en los años 60 y hoy en día está extendido por todo el mundo generando otra forma de alimentación y de relación dentro del camino hacia la Soberanía alimentaria.
+Introducción de la temática: 
+Parke Alcosa y Edit Pérez.
 
-La clave de este tipo de iniciativas está en entender la alimentación sana y accesible para todas como un derecho y los alimentos como un bien común a gestionar entre todas y no una mera mercancía. Desde esa perspectiva, se construyen formas de producción y de consumo que ponen como prioridad un acceso a la alimentación que genere condiciones sanas y justas para todas las personas y para los ecosistemas que habitan. Supone romper con una lógica individualista y desarrollista, recuperando otras formas de hacer y de construir desde lo local en clave de justicia social y gestión comunitaria.
+## Taller 3: El Después. Cómo crear comunidad y estructuras resilientes. {#taller3}
 
-Introdución de la temática: Isa Álvarez (ZambraEH-Bizilur), Emiliano y María (Asdecoba-Salamanca). 
-
-### Conclusiones
-Tras conocer dos experiencias de implementación de la Agricultura Sostenida por la Comunidad (ASC) en Salamanca y en Bizilur, se trabajó en grupos sobre los amores, odios, miedos y retos que despertaban estos tipos de iniciativas.
-
-![Conclusiones Grupo 1](img/alimentacion-1.jpg)
-![Conclusiones Grupo 2](img/alimentacion-2.jpg)
-![Conclusiones Grupo 3](img/alimentacion-3.jpg)
-![Conclusiones Grupo 4](img/alimentacion-4.jpg)
-
-## Taller 2: Criminalización de espacios y vidas de las personas {#taller2}
-
-El espacio natural, el espacio rural y el espacio carcelario. Las personas migrantes, las personas con problemas de salud mental o encarceladas; espacios y colectivos de seres humanos en los que se ha perdido la centralidad de la vida, y de muchas vidas.
-
-El expolio, casi siempre por intereses económicos, de territorios y espacios con identidad, está generando abandono, soledad y movilidad obligatoria, en muchos casos, acarreando muertes y mucho dolor.
-
-Todo se supedita al sometimiento de personas y tierras que han de dejar sus espacios vitales para la ocupación y la explotación de unos pocos intereses particulares que están empeñados en sobreponerse al bien común.
-
-La muerte y el dolor, la soledad y la precariedad, la desertización, la sobreexplotación y el abandono, se convierten en consecuencias significativas de la criminalización ejercida.
-
-Introducción de la temática: Migraciones (Gabriela Frías - CEMDRI), cárcel (Salhaketa-Nafarroa), espacio rural (Tierra Papel Tijera), ecologismo (Futuro Vegetal).
-
-### Conclusiones
-
-![Migraciones](img/represion-migrantes.jpg#center)
-![Cárcel](img/represion-carcel.jpg)
-![Espacio rural](img/represion-medio-rural.jpg)
-![Ecologismo](img/represion-ecologismo.jpg)
-
-
-## Taller 3: De la justicia restaurativa a la justicia comunitaria {#taller3}
-
-Las respuestas estatales a la violencia reproducen la violencia y a menudo traumatizan a quienes están expuestas a ellas, especialmente a las comunidades oprimidas que ya son perseguidas por el Estado (como vimos en el taller anterior). Por eso queremos optar por la justicia comunitaria y avanzar hacia una verdadera transformación del comportamiento y las condiciones violentas. 
-
-Construyendo valores, prácticas, relaciones y el mundo que queremos, en comunidad. Las respuestas de la Justicia transformativa son una oportunidad para que no solo abordemos los incidentes de violencia, daño y abuso, sino también para evaluar y construir colectivamente los tipos de relaciones y comunidades que podrían intervenir en casos de violencia, así como también prevenir la misma. 
-
-Introducción de la temática: Alicia Alonso (Baladre), Ana Gordaliza (educadora social), Luis Rico (Ecologistas en Acción).
-
-### Conclusiones
-
-Se trabajó en grupos sobre las siguientes preguntas:
-
-- ¿Cuáles son las habilidades que necesitamos para poder prevenir, responder, sanar y responsabilizarnos por conductas dañinas, violentas y abusivas?
-
-![Conclusiones Grupo 1](img/justicia-transformativa-habilidades.jpg)
-
-- ¿Qué necesitan las sobrevivientes y las personas que han causado daño?
-
-![Conclusiones Grupo 2](img/justicia-transformativa-necesidades.jpg)
-  
-- ¿Por qué las sobrevivientes y las personas que han causado daño tienen tan pocas opciones en nuestra comunidad?
-
-![Conclusiones Grupo 3](img/justicia-transformativa-opciones.jpg)
-  
-- ¿Cuáles son algunas de las formas dañinas en que nos tratamos unas a otras que ayudan a preparar el terreno para la violencia y el abuso, y cómo podemos cambiar esto?
-
-![Conclusiones Grupo 4](img/justicia-transformativa-formas-dañinas.jpg)
-
-- ¿Qué mecanismos podemos articular en nuestros colectivos para prevenir abusos y violencias? ¿Qué tipo de infraestructura comunitaria podemos crear para respaldar una mayor seguridad, transparencia, sostenibilidad, atención y conexión (por ejemplo, una red de casas seguras comunitarias que puedan utilizar quienes están en peligro, una gran cantidad de miembros de la comunidad que estén capacitadas para liderar intervenciones contra la violencia)?
-
-![Conclusiones Grupo 5](img/justicia-transformativa-mecanismos-preventivos.jpg)
+Introducción de la temática:
+Patricia Duró y Rubén Suriñach.
 
 # Metodología
 

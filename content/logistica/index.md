@@ -1,35 +1,43 @@
 ---
 title: Logística
-description: Logística de la Escuela Social Ramón Fernández Durán 2021
+description: Logística de la Escuela Social Ramón Fernández Durán 2025
 lang: es
 ---
 
 # Fechas
 
-La edición de 2024 de la Escuela Social Ramón Fernández Durán será del 12 al 14 de abril.
+La edición de 2025 de la Escuela Social Ramón Fernández Durán será del 23 al 25 de mayo.
 
 # Lugar
 
-En Arterra Bizimodu, una ecoaldea en Artieda (Navarra) con un interesante proyecto de vida comunitaria en sociocracia.
+En Allariz, un pintoresco pueblo de Ourense. Los talleres el alojamiento serán en el albergue de la Fundación Ramón González Ferreiro, situado en la reserva de la biosfera de Allariz.
 
 {{< rawhtml >}}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d152338.2222608842!2d-1.4612153087545832!3d42.72249666225859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd50b10de8e7d165%3A0xe40def0e1ad19bfa!2sArterra%20Bizimodu!5e0!3m2!1ses!2ses!4v1705227189094!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2501.56318784758!2d-7.748877338453476!3d42.199628643518544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd3aac8e6d7f00b3%3A0xd3916477b87dc60f!2sFundaci%C3%B3n%20Ram%C3%B3n%20Gonz%C3%A1lez%20Ferreiro!5e1!3m2!1ses!2ses!4v1744725995553!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 {{< /rawhtml >}}
 
 ## Cómo llegar
 
-https://arterrabizimodu.org/como-llegar/
+Se puede llegar a Ourense en tren o autobús desde cualquier punto de la península. 
+
+Desde Ourense hay autobuses que salen de la Rúa Progreso 91 (XG602027 Maceda cruce OU-103). El albergue está a 1,3 km de la parada del autobús de Xunqueira de Ambia, por lo que si llevas mucha carga es recomendable que avises para que vaya alguien a recogerte.
+
+### Transporte público
+
+Se puede llegar a Ourense en tren o autobús desde cualquier punto de la península. 
+
+Desde Ourense hay autobuses que salen de la Rúa Progreso 91 (XG602027 Maceda cruce OU-103). El albergue está a 1,3 km de la parada del autobús de Xunqueira de Ambia, por lo que si llevas mucha carga es recomendable que avises para que vaya alguien a recogerte.
+
+### Transporte privado
 
 Si vienes en tu vehículo particular y dispones de plazas libres en tu vehículo, te recomendamos que lo anuncies en el foro de más abajo unas semanas antes del comienzo de la escuela, indicando el número de plazas, el lugar de salida y principales ciudades del itinerario y la hora aproximada de salida.
 
 # Alojamiento
 
-Exsiten distintas opciones de alojamiento:
+Existen distintas opciones de alojamiento:
 
-- Alojamiento en apartamento individual (solo para casos justificados).
-- Alojamiento en apartamento compartido.
-- Alojamiento colectivo en albergue en la propia ecoaldea en habitaciones compartidas (6 u 8 plazas).
-- Zona de acampada.
+- Alojamiento en habitación individual (solo para casos justificados).
+- Alojamiento en habitación compartida para 4 personas.
 
 # Niña/os
 
@@ -37,21 +45,22 @@ Si vienes con niña/os habrá ludoteca. Por favor indicar en la ficha de inscrip
 
 # Alimentación
 
-El menú es vegetariano pero si prefieres menú vegano indícalo en el formulario de inscripción.
+El menú es vegetariano, pero si prefieres menú vegano indícalo en el formulario de inscripción.
 
 El precio de las comidas será:
 
 - Desayuno: 5€.
-- Comida: 10€.
-- Cena: 10€.
+- Comida: 11€.
+- Cena: 11€.
 
 # Qué traer
 
 - Saco de dormir
+- Toalla
 
 # Inscripción
 
-El precio de la inscripción es de 10 € más el coste del alojmaiento y las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](../inscripcion) antes del lunes 8 de abril.
+El precio de la inscripción es de 10 € más el coste del alojamiento y las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](../inscripcion) **antes del miércoles 15 de mayo**.
 
 # Teléfonos de contacto
 
