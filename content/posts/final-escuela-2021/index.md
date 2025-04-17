@@ -1,9 +1,8 @@
 ---
 title: "Termina la sexta edición de la Escuela Ramón Fernández Durán"
 date: 2021-09-21
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
+featuredImage: "featured-image.jpg"
+lightgallery: true
 ---
 
 El pasado domingo 19 concluía la sexta edición de la escuela Ramón Fernández Durán con alegría y satisfacción por parte de todas las asistentes.
@@ -14,7 +13,7 @@ Había ganas de volverse a ver y compartir lo vivido durante la pandemia y eso s
 
 {{< load-photoswipe >}}
 
-{{< gallery dir="/img/2021/conclusiones/" />}}
+{{< gallery dir="/img/2021/conclusiones" />}}
 
 Y estas fueron las palabras más repetidas durante la escuela.
 

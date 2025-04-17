@@ -81,12 +81,12 @@ Durante la escuela se abordará la temática presentada en tres talleres uno par
 ## Taller 1: El Antes. Cómo prepararse para una emergencia (Dana, volcán, pandemia, apagón, guerra...). {#taller1}
 
 Introducción a la temática: 
-Bomberos y gente de La Palma. 
+Bomberos de CGT
 
 ## Taller 2: El Durante. Cómo garantizar las necesidades más basicas. {#taller2}
 
 Introducción de la temática: 
-Parke Alcosa y Edit Pérez.
+Amparo y Tere del Parke Alcosa y Edit Pérez.
 
 ## Taller 3: El Después. Cómo crear comunidad y estructuras resilientes. {#taller3}
 

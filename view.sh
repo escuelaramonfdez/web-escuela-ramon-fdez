@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-/opt/hugo/hugo server --disableFastRender
+hugo server --disableFastRender

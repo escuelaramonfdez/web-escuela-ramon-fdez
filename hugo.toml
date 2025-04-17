@@ -261,9 +261,7 @@ title = "Escuela Ramón Fernández Durán"
       highlight = true
       enableQQ = false
       serverURLs = ""
-    # Commento comment config
-    [params.page.comment.commento]
-        enable = true
+
 
 [menu]
   [[menu.main]]

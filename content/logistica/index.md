@@ -64,6 +64,6 @@ El precio de la inscripción es de 10 € más el coste del alojamiento y las co
 
 # Teléfonos de contacto
 
-Si tienes cualquier problema puedes llamarnos a cualquiera de los siguientes teléfonos: 656624528 (Baladre), 689026027 (CGT) o 656595591 (Ecologistas).
+Si tienes cualquier problema puedes llamarnos a cualquiera de los siguientes teléfonos: 656624528 (Baladre), 689889786 (CGT) o 656595591 (Ecologistas).
 
 # Foro para compartir vehículo {#foro-vehiculo}
