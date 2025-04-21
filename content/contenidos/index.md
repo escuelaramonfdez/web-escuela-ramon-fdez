@@ -38,7 +38,7 @@ Durante la escuela se abordará la temática presentada en tres talleres uno par
 
 21:00 Cena.
 
-22:00-23:00 Presentación de experiencias locales o dinámica de presentación de participantes.
+22:00-23:00 Presentación de experiencias labriegas locales. 
 
 ## Sábado 24 de mayo
 
@@ -81,17 +81,17 @@ Durante la escuela se abordará la temática presentada en tres talleres uno par
 ## Taller 1: El Antes. Cómo prepararse para una emergencia (Dana, volcán, pandemia, apagón, guerra...). {#taller1}
 
 Introducción a la temática: 
-Bomberos de CGT
+Bomberos de Galicia, Casa Azul (defensa del territorio en el occidente de Asturias) y Pablo de Ecologistas en Acción de La Palma.
 
 ## Taller 2: El Durante. Cómo garantizar las necesidades más basicas. {#taller2}
 
 Introducción de la temática: 
-Amparo y Tere del Parke Alcosa y Edit Pérez.
+Amparo Bolinxes Aznar de la Koordinadora de Kolectivas del Parke, Tere Estruch Garcia de Trasters Coop.; Comité de R. y Reconstrucción de Massanassa y afiliada de CGT.A y Edit Pérez, sanitaria de la sierra norte de Madrid, con amplia experiencia en temas de emergencias y antimilitarismo.
 
 ## Taller 3: El Después. Cómo crear comunidad y estructuras resilientes. {#taller3}
 
 Introducción de la temática:
-Patricia Duró y Rubén Suriñach.
+Patricia Duró, que lleva trabajando 45 años en las Villas Miseria de Buenos Aires, y Rubén Suriñach, de la Xarxa de Colectivas de Economia Social de Catalunya.
 
 # Metodología
 
