@@ -6,7 +6,7 @@ featuredImage: cartel-escuela-2025.jpg
 lang: es
 ---
 
-Ha pasado ya un añito desde la última escuela Ramón Fernández Durán, y seguro que nos has echado de menos, pero ya estamos de vuelta. La próxima edición de la Escuela Ramón Fernández Durán se celebrará en **Allariz**, uno de los pueblos más pintorescos de Ourense, del **21 al 23 de abril de 2025**, así que reserva ya esas fechas en tu agenda.
+Ha pasado ya un añito desde la última escuela Ramón Fernández Durán, y seguro que nos has echado de menos, pero ya estamos de vuelta. La próxima edición de la Escuela Ramón Fernández Durán se celebrará en **Allariz**, uno de los pueblos más pintorescos de Ourense, del **23 al 25 de abril de 2025**, así que reserva ya esas fechas en tu agenda.
 
 En un contexto de crisis sistémica (climática, energética y de derechos sociales), donde se impone la guerra por el control de los recursos y las élites políticas apuestan sin tapujos por el rearme y la militarización de nuestras vidas, creemos que tenemos que prepararnos para el peor escenario. La catástrofe de la Dana de Valencia, la guerra de Ucrania y el genocidio del pueblo palestino han puesto de manifiesto que no estamos preparadas para afrontar emergencias y catástrofes humanitarias. Por este motivo, este año la temática de la escuela será **la gestión de las emergencias y las catástrofes relacionadas con procesos de colapso (ambiental, económico, de recursos materiales,…), desde la creación de redes de apoyo mutuo**.
 
