@@ -1,15 +1,85 @@
 baseURL = "https://escuelaramonfdez.org"
-# [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "es"
-# language code
-languageCode = "es"
-# language name
-languageName = "Español"
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
+disableLanguages = []
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
-title = "Escuela Ramón Fernández Durán"
+[languages]
+
+  [languages.es]
+    weight = 1
+    languageCode = "es"
+    languageName = "Español"
+    title = "Escuela Ramón Fernández Durán"
+
+  [languages.gl]
+    weight = 2
+    languageCode = "gl"
+    languageName = "Galego"
+    title = "Escola Ramón Fernández Durán"
+    contentDir = 'content/gl'
+    [[languages.gl.menu.main]]
+      identifier = "presentacion"
+      pre = ""
+      post = ""
+      name = "Presentación"
+      url = "/gl/presentacion/"
+      title = "Presentación"
+      weight = 1
+    [[languages.gl.menu.main]]
+      identifier = "contenidos"
+      pre = ""
+      post = ""
+      name = "Contidos"
+      url = "/gl/contenidos/"
+      title = "Contidos"
+      weight = 2
+    [[languages.gl.menu.main]]
+      identifier = "loxistica"
+      pre = ""
+      post = ""
+      name = "Loxística"
+      url = "/gl/loxistica/"
+      title = "Loxística"
+      weight = 3
+    [[languages.gl.menu.main]]
+      identifier = "inscricion"
+      pre = ""
+      post = ""
+      name = "Inscrición"
+      url = "/gl/inscricion/"
+      title = "Inscrición"
+      weight = 4
+
+    [languages.gl.params.home]
+      # Home page profile
+      [languages.gl.params.home.profile]
+        enable = true
+        # Gravatar Email for preferred avatar in home page
+        gravatarEmail = "escuelaramonfdez@riseup.net"
+        # URL of avatar shown in home page
+        avatarURL = "/img/avatar.png"
+        # uBlogger CHANGED | 0.2.7 title shown in home page (HTML format is supported)
+        title = "Escola Ramón Fernández Durán"
+        # subtitle shown in home page
+        subtitle = "A escola dos Movementos Sociais"
+        # whether to show social links
+        social = true
+        # disclaimer (HTML format is supported)
+        disclaimer = ""
+        # whether to use typeit animation for subtitle
+        typeit = true
+      # Home page posts
+      [languages.gl.params.home.posts]
+        enable = true
+        # special amount of posts in each home posts page
+        paginate = 6
+        # uBlogger DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
+        # default behavior when you don't set "hiddenFromHomePage" in front matter
+        defaultHiddenFromHomePage = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
