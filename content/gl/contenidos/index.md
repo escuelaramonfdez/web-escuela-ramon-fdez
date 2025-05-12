@@ -80,17 +80,25 @@ Durante a escola abordarase a temática presentada en tres obradoiros, un para c
 ## Obradoiro 1: O Antes. Como prepararse para unha emerxencia (DANA, volcán, pandemia, apagón, guerra...). {#taller1}
 
 Introdución á temática:  
-Bombeiros de Galicia, Casa Azul (defensa do territorio no occidente de Asturias) e Pablo de Ecoloxistas en Acción de A Palma.
+Bombeiros de Galicia e Casa Azul (defensa do territorio no occidente de Asturias).
 
 ## Obradoiro 2: O Durante. Como garantir as necesidades máis básicas. {#taller2}
 
 Introdución á temática:  
-Amparo Bolinxes Aznar da Koordinadora de Kolectivas do Parke, Tere Estruch García de Trasters Coop.; Comité de R. e Reconstrución de Massanassa e afiliada da CGT.A e Edit Pérez, sanitaria da serra norte de Madrid, con ampla experiencia en temas de emerxencias e antimilitarismo.
+Amparo Bolinxes Aznar da Koordinadora de Kolectivas do Parke, Tere Estruch García de Trasters Coop.; Comité de R. e Reconstrución de Massanassa e afiliada da CGT.A e Irene García, médica comunitaria con experiencia en emerxencias.
+
+Neste obradoiro, Tere falará de como, tras a Dana, quedaron sen nada, todo o local cuberto de lama, igual que as nosas rúas. De como reconstruíron todo con apoios diversos e volveron abrir as portas dunha cooperativa de reciclaxe e recollida de sólidos no Concello de Alfafar e na Comarca. De que significou a solidariedade en forma de novos camións e furgonetas, de brazos e persoas que durante meses viñeron retirar a lama e recolocar a vida ao noso arredor. As súas primeiras sensacións e vivencias, o momento da decisión: ¿E agora que? E como foi o proceso a través das redes e recursos que fixeron posible saír adiante. Tamén de como limparon xunto a outras a Albufera... e foron recuperando o sorriso, apoiando os Comités de Reconstrución e Rehabilitación, no seu caso, o de Massanassa.
+
+Amparo falará tamén da Dana e da única resposta que obtivo ante a lama e a desolación: VAI AO KOLECTIVO... e así foi, entre todas —a verdade é que moitísimas do Parke e de multitude de lugares— reconstruíron os vínculos, os afectos e a vida. Deron a luz un supermercado popular, un comedor popular, un espazo para resituar os sentipensares e as cabezas rotas. Puxeron as VIDAS DE TODAS NO CENTRO, cunha xenerosidade e ilusión que lles fixo recuperar o seu lema histórico: Fagámolo NÓS MESMAS, a comunidade nun sentido amplo..., como viñan intentando nos últimos corenta anos.
+
+Pola súa parte, Irene falará da experiencia da asistencia sanitaria de primeiro nivel no contexto da inundación pola Dana. ¿Que pasa cando ninguén coñece os protocolos, cando estes fallan? O que non serve, debe cambiarse. O poder da comunidade e das súas redes comunitarias. Orde no caos: flexibilidade, resiliencia e autocuidados.
 
 ## Obradoiro 3: O Despois. Como crear comunidade e estruturas resilientes. {#taller3}
 
 Introdución á temática:  
-Patricia Duró, que leva traballando 45 anos nas Villas Miseria de Bos Aires, e Rubén Suriñach, da Rede de Colectivas de Economía Social de Cataluña.
+Patricia Duró, que leva traballando 45 anos nas Villas Miseria de Bos Aires.
+
+Patricia Duró é enfermeira, psicóloga, traballadora social, pero fundamentalmente Patricia é activista social nos últimos 46 anos. Xa estivo compartindo coas xentes de Baladre, no ano 2002, a situación sociopolítica na Arxentina tras o corralito. Agora quixemos volver convidala fronte á situación das políticas represivas e de recortes do goberno de Milei. Pero, sobre todo, para que nos conte como está afectando esta situación ás persoas máis vulnerables e desprotexidas do territorio. Aquelas que viven na rúa, as que morren sen asistencia médica axeitada nos hospitais, as traballadoras migrantes, as pensionistas con pensións baixas... Patricia falaranos dende as realidades cotiás coas que convive e das prácticas de apoio mutuo que se desenvolven dende as de abaixo.
 
 # Metodoloxía
 

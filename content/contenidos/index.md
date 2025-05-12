@@ -81,17 +81,28 @@ Durante la escuela se abordará la temática presentada en tres talleres uno par
 ## Taller 1: El Antes. Cómo prepararse para una emergencia (Dana, volcán, pandemia, apagón, guerra...). {#taller1}
 
 Introducción a la temática: 
-Bomberos de Galicia, Casa Azul (defensa del territorio en el occidente de Asturias) y Pablo de Ecologistas en Acción de La Palma.
+Bomberos de Galicia y Casa Azul (defensa del territorio en el occidente de Asturias).
 
 ## Taller 2: El Durante. Cómo garantizar las necesidades más basicas. {#taller2}
 
 Introducción de la temática: 
-Amparo Bolinxes Aznar de la Koordinadora de Kolectivas del Parke, Tere Estruch Garcia de Trasters Coop.; Comité de R. y Reconstrucción de Massanassa y afiliada de CGT.A y Edit Pérez, sanitaria de la sierra norte de Madrid, con amplia experiencia en temas de emergencias y antimilitarismo.
+Amparo Bolinxes Aznar de la Koordinadora de Kolectivas del Parke, Tere Estruch Garcia de Trasters Coop.; Comité de R. y Reconstrucción de Massanassa y afiliada de CGT e Irene García, médica comunitaria con experiencia en emergencias.
+
+En este taller Tere hablará de cómo tras la Dana se quedaron sin nada, todo el local con barro, al igual que nuestras calles. De cómo reconstruyeron todo con apoyos diversos y volvieron a abrir las puertas de una Cooperativa de reciclaje y recogida de sólidos en el Ayuntamiento de Alfafar y la Comarca. De qué significo la solidaridad en forma de nuevos camiones y furgoneta, de brazos y gentes que durante meses vinieron a retirar barro y colocar la vida de nuevo a nuestro alrededor.
+Sus primeras sensaciones y vivencias, el momento de decisión ¿Y ahora que? Y como fue el proceso a través de las redes y recursos que hicieron posible que pudieran salir adelante. También de cómo limpiaron con otras La Albufera... y fueron recuperando la sonrisa, apoyando los Comités de Reconstrucción y Rehabilitación, en su caso de Massanassa.
+
+Amparo hablará también de la Dana sobre la única respuesta que obtuvo ante el barro y la desolación: VETE AL KOLECTIVO... y así fue, entre todas, la verdad que muchísimas de Parke y de multitud de lugares, reconstruyeron los vínculos, los afectos y la vida. Parieron un supermercado popular, un comedor popular, un espacio para resituar los sentipensares y las cabezas rotas. Pusieron las VIDAS DE TODAS EN EL CENTRO, con una generosidad e ilusión que las hizo recuperar su histórico lema: Hagámoslo NOSOTRAS MISMAS, la comunidad en un sentido amplio..., como venían intentándolo en los últimos cuarenta años.
+
+Por su parte, Irene hablará de la experiencia de la asistencia sanitaria de primer nivel en el contexto de la inundación por la Dana. ¿Qué pasa cuando nadie se sabe los protocolos, cuando estos fallan? Lo que no sirve, debe cambiarse. El poder de la comunidad y de sus redes comunitarias. Orden en el caos: Flexibilidad, resiliencia y autocuidados.
+
 
 ## Taller 3: El Después. Cómo crear comunidad y estructuras resilientes. {#taller3}
 
 Introducción de la temática:
-Patricia Duró, que lleva trabajando 45 años en las Villas Miseria de Buenos Aires, y Rubén Suriñach, de la Xarxa de Colectivas de Economia Social de Catalunya.
+Patricia Duró, que lleva trabajando 45 años en las Villas Miseria de Buenos Aires.
+
+
+Patricia Duró es enfermera, psicóloga, trabajadora social, pero fundamentalmente Patricia es activista social en los últimos 46 años. Ya estuvo compartiendo con las gentes de Baladre, en el año 2002 la situación sociopolítica en Argentina tras el corralito. Ahora hemos querido volver a invitarla frente a la situación de las políticas represivas y de recortes del gobierno de Millei. Pero sobre todo, cómo esta situación está afectando a las personas más vulnerables y desprotegidas del territorio. Aquellas que viven en la calle, las que mueren sin asistencia médica adecuada en los hospitales, las trabajadoras migrantes, las jubiladas con bajas pensiones,... Patricia nos hablará, desde las realidades cotidianas con las que convive y de las prácticas de apoyo mutuo que se desarrollan desde las de abajo.
 
 # Metodología
 
