@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:escuelaramonfdez/escuelaramonfdez.github.io.git
+[submodule "themes/FixIt"]
+	path = themes/FixIt
+	url = https://github.com/hugo-fixit/FixIt.git
