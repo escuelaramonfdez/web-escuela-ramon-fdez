@@ -1,7 +1,6 @@
 ---
 title: Contidos
 description: Contidos da Escola Social Ramón Fernández Durán 2025
-lang: gl
 ---
 
 A temática da escola nesta edición será a xestión das _emergencias_ e das _catástrofes_ relacionadas con procesos de colapso (ambiental, económico, de recursos materiais,...), desde a creación de _redes de apoio mutuo_.

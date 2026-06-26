@@ -3,7 +3,6 @@ title: La IX edición de la Escuela Ramón Fernández Durán será en Allariz (O
 date: 2025-04-21
 featuredImagePreview: featured-image.jpg
 featuredImage: cartel-escuela-2025.jpg
-lang: es
 ---
 
 Ha pasado ya un añito desde la última escuela Ramón Fernández Durán, y seguro que nos has echado de menos, pero ya estamos de vuelta. La próxima edición de la Escuela Ramón Fernández Durán se celebrará en **Allariz**, uno de los pueblos más pintorescos de Ourense, del **23 al 25 de mayo de 2025**, así que reserva ya esas fechas en tu agenda.

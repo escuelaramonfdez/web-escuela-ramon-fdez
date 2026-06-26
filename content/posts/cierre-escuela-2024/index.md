@@ -5,7 +5,6 @@ resources:
   - name: featured-image
     src: featured-image.jpg
 date: 2024-04-15
-lang: es
 ---
 
 Con la alegría que produce el haber conocido gentes maravillosas de distintos lugares en un sitio de ensueño como Arterra, y con la satisfacción de haber aprendido y compartido conocimientos, herramientas y experiencias, cerramos la Escuela Social Ramón Fernández Durán de 2024. 

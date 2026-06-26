@@ -1,7 +1,6 @@
 ---
 title: Edición de 2024
 description: Edición de la Escuela Social Ramón Fernández Durán de 2024
-lang: es
 ---
 
 ![Cartel Escuela 2024](./cartel-escuela-2024.jpg#center)

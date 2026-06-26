@@ -5,20 +5,20 @@ disableDefaultLanguageRedirect = false
 disableLanguages = []
 
 # Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+theme = "FixIt"
 
 [languages]
 
   [languages.es]
     weight = 1
-    languageCode = "es"
-    languageName = "Español"
+    locale = "es"
+    label = "Español"
     title = "Escuela Ramón Fernández Durán"
 
   [languages.gl]
     weight = 2
-    languageCode = "gl"
-    languageName = "Galego"
+    locale = "gl"
+    label = "Galego"
     title = "Escola Ramón Fernández Durán"
     contentDir = 'content/gl'
     [[languages.gl.menu.main]]
@@ -83,6 +83,11 @@ theme = "LoveIt"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   # site description

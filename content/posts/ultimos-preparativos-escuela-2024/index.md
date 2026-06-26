@@ -5,7 +5,6 @@ date: 2024-04-06
 resources:
   - name: featured-image
     src: featured-image.jpg
-lang: es
 ---
 
 Ya queda menos de una semana para el comienzo de la VIII edición de la Escuela Ramón Fernández Durán, y estamos contando los días ansiosas por volver a encontrarnos compartir un par de días llenos de reflexiones, experiencias y aprendizajes, a la vez que pasar un buen rato.

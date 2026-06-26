@@ -1,7 +1,6 @@
 ---
 title: Loxística
 description: Loxística da Escola Social Ramón Fernández Durán 2025
-lang: gl
 ---
 
 # Datas

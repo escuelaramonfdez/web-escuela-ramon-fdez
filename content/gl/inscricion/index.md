@@ -1,7 +1,6 @@
 ---
 title: Inscrición
 description: "Inscrición na Escola Social Ramón Fernández Durán 2025"
-lang: gl
 ---
 
 Para inscribirte nesta edición de 2025 debes cubrir o formulario que aparece máis abaixo **antes do 15 de maio**.

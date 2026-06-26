@@ -1,7 +1,6 @@
 ---
 title: Edición de 2022
 description: Edición de la Escuela Social Ramón Fernández Durán de 2022
-lang: es
 ---
 
 ![Cartel Escuela 2022](./cartel-escuela-2022.jpg#center)

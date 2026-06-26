@@ -4,7 +4,6 @@ date: 2024-02-26
 resources:
   - name: featured-image
     src: featured-image.jpg
-lang: es
 ---
 
 Estamos de enhorabuena porque, tras el parón de 2023, este año volveremos a celebrar la VIII edición de la Escuela Ramón Fernández Durán, _la escuela de los movimientos sociales_. 
