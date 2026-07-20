@@ -108,6 +108,352 @@ Pablo, por su parte, nos contará cómo se ha organizado la población de La Pal
 
 Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas.
 
+# Conclusiones de los talleres
+
+## El Antes
+
+### Grupo 1. «PROTEGER(NOS) PARA NO PERDER(NOS)»
+
+Reflexionar e preparar-nos para que as crises nom sejam escusa com a que nos roubem direitos.
+
+**Ejes de necesidades:** AGUA — COMIDA — SALUD — VIVIENDA
+
+- Red logística de redistribución.
+- Aprender de experiencias previas.
+- Sensibilización · Formación · Simulacros.
+- Apoyo mutuo y **cuidados colectivos** frente a autosuficiencia.
+- Narrativa de derechos.
+- Infraestructuras propias locales → alianzas (compartir luchas).
+- Delegar responsabilidades de manera consensuada → procesos y liderazgos.
+- Los recursos tienen que estar utilizables.
+- Conocer los riesgos de nuestro modo de vida.
+- Conocimiento mutuo (habilidades, debilidades, herramientas).
+- Reorientar recursos públicos.
+- Conocer y cambiar los protocolos oficiales.
+
+### Grupo 2. «Cuidarnos desde lo colectivo»
+
+- Establecer ámbito de alcance (por ejemplo dos horas andando).
+- Mapeos: vulnerabilidades, recursos, colectivos.
+- Trabajar relaciones mundo rural y urbano.
+- Organización predefinida (roles, espacios, recursos).
+- Conocer y asegurar necesidades básicas.
+- Consolidar redes de apoyo de forma continuada.
+
+**Mensajes:**
+- Las emergencias serán más y más frecuentes.
+- Hay que estar preparadas y no improvisar.
+- La mejor forma es con apoyo mutuo / organización colectiva.
+- La causa es el sistema.
+- Humanismo desde la práctica y las cosas concretas.
+
+**Más líneas:**
+- Ser conscientes de nuestras habilidades y nuestra aportación.
+- Hacer partícipe a todas, valorando toda aportación.
+- Zona física de encuentro / transporte / herramientas / cobijo / red de recursos personales / sistemas de comunicación alternativos.
+- Como depositarios y custodios de nuestros recursos, con el objetivo de recuperarlos.
+- Apoyarnos entre colectivos que pongan la vida en el centro.
+
+**CUIDARNOS DESDE LO COLECTIVO, TODO EL TIEMPO, EN TODAS PARTES**
+
+### Grupo 3. «Líneas de acción — Formación: mantener la vida»
+
+**Líneas de acción:**
+- Informarse de protocolos de emergencias y crear propios.
+- Creación de redes locales, barriales y comunitarias (org. sociales, instituciones, administración).
+- Abastecimiento en puntos de referencia (generadores, comida, agua, luz, etc.).
+- Formación: **mantener la vida**.
+  - Personas especializadas.
+  - Curso de manitas.
+  - Primeros auxilios.
+  - Soberanía alimentaria.
+  - Organización social.
+  - Cuidados.
+
+**Comunicación:**
+- Transmisión de la importancia de organizarse (mira alrededor).
+- Ser/creerte el agente de cambio (construir comunidad)
+
+**¿Qué organización necesitamos? / Cambios:**
+- Perspectiva vecinal.
+- Horizontal.
+- Construir alternativas concretas.
+
+### Grupo 4
+
+- Necesidades: agua, alimento, energía, comunicación y vivienda.
+- Planes propios de emergencia.
+- Hacer comunidad y espacios de encuentro → saberes tradicionales y colectivos (y previos de otros eventos).
+- Autoorganización. A partir de colectivos que ya tienen infraestructura (ej.: espacios, locales) que se pongan a disposición del barrio. Darlo a conocer.
+- Comunidades de vecinos. Conocer necesidades y **recursos**:
+  - Lista de personas con necesidades específicas.
+  - Sacar el tema en reuniones de la comunidad.
+- Análisis de necesidades/vulnerabilidad para planes de prevención → adquirir determinados productos que se pueden colectivizar y que sirven para diversas emergencias (comida, radio, linterna, baterías, etc.)
+- Huertos urbanos y comunitarios.
+- Mensajes desde la normalidad.
+- Aprendizajes: montar una radio, sistemas de aguas.
+- Infraestructuras: radios comunitarias (emisión y receptores), edición propia e impresión, megafonía pública, espacios autónomos como refugio
+- Alianzas: con todas las organizaciones sociales no excluyentes (grupos de música, asociaciones locales de cualquier tipo, incluso religiosas). Flexibilidad.
+- Relaciones con instituciones: solicitar hacer público el mapeo de actores y recursos en x territorio. Exigir servicios básicos (fuentes, baños, huertos, etc.).
+
+**Síntesis:** Impulsar lo comunitario desde la flexibilidad y empatía. Tener planes propios de emergencia que contengan un mapeo de necesidades, recursos para colectivizar y el conocimiento del territorio: espacios autónomos y sistemas de comunicación.
+
+### Grupo 5. «Apoyo mutuo — Cartografía de necesidades y recursos»
+
+- **Mapeo de recursos:** comida, transporte, cuidados, personas, saberes, dones y talentos.
+- **Alianzas:** con todas las personas y grupos dispuestos a aportar, y con objetivos comunes.
+- Mapeo de amenazas.
+- Protocolos de autodefensa contra la represión y la doctrina del shock.
+- **Infraestructuras:** transporte, comunicación, locales, infraestructura sanitaria, alimentación, higiene.
+- **Relaciones con el Estado:** exigir servicios básicos. Contactos con trabajadoras esenciales. Participación en los planes de emergencia.
+- **Cómo nos estructuramos:** grupos de afinidad locales, anclados en el territorio.
+- **Mensajes:** visibilizar experiencias positivas en emergencias pasadas.
+- **Diálogo de saberes** con poblaciones que han vivido situaciones de emergencia en otros lugares:
+  - Puntos de encuentro y comunicaciones.
+  - Formación entre colectivos.
+  - Formación en primeros auxilios (físicos y psicológicos).
+
+---
+
+## El Durante
+
+### Grupo 1. «El Durante: encontrarse, adaptarse, cuidarnos»
+
+- Activarse / no bloquearse.
+- Desde solidaridad y apoyo.
+- Atender riesgos vitales.
+- Acudir al punto de encuentro.
+- Evaluar, ver necesidades y capacidades, coordinarse.
+
+- **Medios:** radios comunitarias, megáfonos, walkie-talkies, carteles, ...
+
+- **Mensajes:** calma, positivo, esperanza, puedes ayudar, tenemos un plan, ...
+
+- Adaptabilidad
+
+- Capacidad de uso (estado). Comprobar la de otras redes.
+
+- Adaptativa según nivel de desastre.
+
+- Flexibilidad, amabilidad, adaptación, empatía, delegar, nuevos liderazgos horizontales, no juzgar.
+
+- Activar el protocolo también ante emergencias en otros territorios
+
+### Grupo 2. «La fuerza colectiva asume el control»
+
+- Tranquilidad y confianza.
+- Organización y eficacia → llamamientos específicos.
+- Desnudar a la UME → civilizarla.
+- Autogestión y desobediencia si es necesaria.
+- Identificar urgencias, necesidades.
+
+### Grupo 3. «Coordinación y comunicación constante»
+
+- Coordinación y comunicación constante (también con el exterior).
+- Tener un punto de encuentro.
+- Censo de personas y necesidades cambiantes → chequeo entre vecinas/os.
+- Hacer a la gente sentirse parte (tareas para todes).
+- Cuidados y apoyo emocional (con espacios específicos) → recordar todo lo que se hace bien.
+- Desmentir bulos y proyectar/visibilizar la potencia de lo colectivo.
+- Aporte económico.
+- Aceptar ayuda.
+- Humildad: no hay por qué saber hacer todo → iniciativa y sumarse a lo que otros hacen.
+
+- **Infraestructura:** espacio físico donde encontrarse (y si no se tiene, ocuparlo o conseguirlo). Medios de comunicación autónomos y colectivos (radios, baterías portátiles, mapas, walkies).
+- **Relaciones con instituciones/Estado:** público-comunitario. Aprovechar recursos e información a la que acceden. Personal del Estado que se convierte en sociedad civil.
+- **Cómo nos estructuramos:** definir la escala de hasta dónde podemos llegar (grupos de proximidad y hacia afuera). Buscar autonomía.
+- **Con quién nos relacionamos:** ayuda para todo el mundo. Poner límites/mínimos con la gente con la que trabajamos (no se aceptan símbolos de extrema derecha).
+
+_Hacer lo que podamos juntas. Actúa. Toda piedra hace pared._
+
+### Grupo 4. «Líneas de acción — Apoyo mutuo»
+
+**Líneas de acción:**
+-  Información.
+-  Punto de encuentro.
+-  Atención a vulnerables.
+-  Confianza en las personas.
+
+**Mensajes e interlocutores:**
+- Tranquilidad, confiar.
+- No ser alarmista, gestionar la información.
+- Visión crítica de los mensajes (redes / institucionales).
+
+**Habilidades a desarrollar/aprender:**
+- Detectar necesidades → conectar con → exponer habilidades + transmitir esas habilidades (revisando continuamente: proceso).
+- Gestión/resolución de conflictos + gestión del malestar.
+
+**Infraestructuras** (detectar las que funcionan + potenciarlas):
+- Walkie-talkies, radio (receptor/emisor), megáfono, cerillas, velas, fuentes de energía alternativas, medicamentos, agua, ...
+
+**Relación con el Estado:**
+- Nuestro derecho: **exigir recursos** puestos a nuestra disposición (técnicos, materiales, humanos).
+- Colaborar desde nuestra autonomía y/o posible autodefensa.
+- Las instituciones deben estar a nuestro servicio, pero siempre con nuestro plan B.
+
+**¿Qué tipos de organizaciones necesitamos?**
+- Abiertas, flexibles, acoger la diferencia y valorarla.
+
+**¿Con quién nos aliamos?**
+- Con quien busque el bien común.
+
+**APOYO MUTUO** — Las crisis como oportunidades para tejer nuevas redes de confianza y apoyo mutuo.
+
+### Grupo 5. «Helechos y bambú»
+
+**Liñas de acción:**
+- Satisfacer necesidades básicas.
+- Establecer un punto de distribución (para mapear necesidades, ofertas y demandas).
+- Redistribuir.
+- Establecer comunicaciones periódicas y actualizadas.
+- Comunicar a todas as entidades sen diferenzas, de maneira veraz e fidedigna… a pata, boca a boca, bando municipal, radio comunitaria.
+
+**Aprenentatge operatiu:** aprofitar els punts d'encontre per intercanviar aprenentatges. Fer autoreflexió (què sabem ja?)
+
+**Infraestructura:** comunicació, relacions, confiança — garantir canals de comunicació.
+
+**Relación con la institución = PEDIR PERDÓN Y NO PERMISO** (las normas no nos sirven) → pero comunicar a posteriori.
+
+**Organización bambú:** porosa, flexible, adaptable, crítica — y horizontalidad «helechos».
+
+**Alianzas** = toda la gente posible → sectores estratégicos, mínimos de derechos.
+
+### Grupo 6. «No perder de vista lo importante en medio de lo urgente»
+
+**Líneas de acción:**
+- Punto de encuentro (físico o virtual) como lugar de reunión de grupos reducidos.
+- Recoger documentación de DNIs de familiares y amigos para buscar un punto de encuentro dado.
+- Crear grupos destinados a la autodefensa, con énfasis en colectivos vulnerables y la violencia policial.
+
+**Mensaje / Comunicación:**
+- Mensajes claves.
+- Activación de redes para comunicar necesidades y mostrar el trabajo que se está realizando.
+
+**Inventario de necesidades básicas:**
+- Lo que tenemos para aportar (material y habilidades).
+- Mapeo de necesidades específicas: medicamentos, movilidad.
+- Recoger los datos de todo lo realizado; poder volver a contactar a las personas.
+
+**Formar equipos y distribuir tareas:**
+- Personas que transmitan confianza y seguridad.
+- Personas que transmitan optimismo.
+
+**Relaciones con las instituciones del Estado:**
+- Informarse y transmitir acciones del gobierno local.
+- Contacto con personal en las instituciones (redes preexistentes).
+- Poner en conocimiento a las instituciones del trabajo de la comunidad.
+
+**Activación del acompañamiento psicológico** — entrenamiento profesional o vivencial.
+
+---
+
+## El Después
+
+### Grupo 1
+
+- Simplificar nuestras organizaciones para hacerlas más resilientes.
+- Plasmar la memoria colectiva en principios y valores que puedan transmitirse a otras generaciones.
+- Protocolos simples y adaptables.
+- Reforzar las asociaciones vecinales (politizarlas) y crearlas donde no existan.
+- Acompañamiento emocional (gestión comunitaria).
+- Recuperar saberes.
+
+### Grupo 2
+
+**¿Cómo sostenemos colectivamente?**
+- Espacios específicos de apoyo emocional con ayuda externa profesional.
+- Identificar dentro de las organizaciones/barrio quién tiene esos conocimientos.
+- Seguir cubriendo necesidades materiales, emocionales, de pertenencia, ...
+- Recoger los aprendizajes por escrito.
+- Rituales, aniversarios, placas… que no hagan olvidar → recordar.
+- Formaciones específicas periódicas (gestión segura, agua, fontanería, cultivos, ...). ¿Aprovechar lo virtual?
+- Crear organizaciones aprovechando el impulso: darse nombre, objetivos, etc.
+- Tener llaves del local distribuidas (varias personas) y alguna que viva muy cerca.
+- Pensar qué/cómo comunicar. Proyectar el apoyo mutuo y lo bueno.
+- Hacer inventario de materiales, personas, saberes, ...
+- Cancionero.
+
+**¿Qué tenemos que cambiar en nuestras organizaciones?**
+- Conocer dentro de las organizaciones en qué barrio / dónde vive la gente → limitación territorial.
+- Dotar de materiales a las organizaciones y los locales (palas, baterías, megáfonos, ...)
+- Bajar este debate a la organización, concretar y hacer grupos de trabajo específicos.
+- **VENTANA DE OPORTUNIDAD PARA CONSTRUIR COMUNIDAD**
+
+**Plan de emergencias:**
+- Tener el protocolo impreso.
+- Puertas que se puedan abrir sin electricidad o alternativas para entrar (personas con llaves).
+- Instrucciones mínimas de uso del local (luz, agua, ...).
+- Dotar al local de materiales de comunicación (walkies, radios, ...) y otros que den autonomía. Material sanitario básico.
+- Tener claves que permitan localizar a personas con necesidades específicas.
+- Tener identificado un grupo de referencia que se active de coordinación y conozca el territorio.
+- Localizar supermercados, puntos de distribución.
+- Tener dinero en efectivo.
+- Protocolo de cuidados (peques, mayores, discapacidad).
+- Mapeo de recursos en cada momento: qué puede aportar cada persona según catástrofe.
+- Identificadas redes con las que colaborar.
+
+### Grupo 3. «Redes que se mantienen, redes que nos sostienen»
+
+**Gestión emocional:**
+- Romper aislamiento.
+- Detectar necesidades.
+- Reforzar redes.
+
+**Organizaciones:**
+- Tener un refugio (local, huerto, ...).
+- Prepararse para la vulnerabilidad.
+
+**Protocolos:**
+- Tener plan A, B y C.
+
+**Mantener aprendizajes:**
+- Formación regular y actualizada.
+- Tener visibles resúmenes de protocolos simples y visuales.
+
+### Grupo 4. «Oportunidad vs. oportunismo del capital»
+
+- Oportunidad → resiliencia, memoria, aprendizaje, identidad.
+- Oportunismo del capital → falta de vínculos, salvapatrias, soluciones fáciles y autoritarias (doctrina del shock).
+
+**Entender el después como proceso de duelo y acompañamiento**.
+
+**Relato:**
+- Poner en valor.
+- Necesidad de comunicar por medios propios.
+- Colaboración de la red externa a la situación.
+
+**Plan de prevención:**
+- Memoria y experiencia.
+- Proceso colectivo.
+- Imaginario esperanzador y de vida.
+- No solamente técnico.
+- Comunitario, participativo y vivencial: gymkana-simulacro.
+- Un buen plan ya es una herramienta de transformación del sistema.
+- Evaluación de vulnerabilidades (guía).
+
+_UN BUEN PLAN DE PREVENCIÓN ES UNA HERRAMIENTA DE TRANSFORMACIÓN DEL SISTEMA._
+
+### Grupo 5. «Nuevos imaginarios — El valor de lo aprendido»
+
+- **Nuevos imaginarios** Importancia de la cultura: relatos, podcast, cine, ...
+- **Importancia del lenguaje** Hablar en presente, situarnos en el DURANTE.
+- **Construir relato y comunidad** Visibilizar la solidaridad y el apoyo mutuo.
+
+**Protocolo**:
+- Punto de encuentro.
+- Evaluar la situación.
+- Definir tareas.
+- Coordinar con otras.
+
+**Tejer redes campo–ciudad** Intercambio de saberes.
+
+**Gestión emocional:**
+- Que la gente se sienta útil.
+- Importancia de la salud mental comunitaria (juntarse, compartir espacios de diálogo).
+- Espacios y momentos de ocio.
+
+_EL VALOR DE LO APRENDIDO.__
+
 # Logística
 
 ## Fechas

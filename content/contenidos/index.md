@@ -78,15 +78,23 @@ Durante la escuela se abordará la temática presentada en tres talleres uno par
 
 Introducción a la temática: Alimentación sostenida por la comunidad y PAH.
 
+> [!INFO] Alimentación Sostenida por la Comunidad
+> La Alimentación Sostenida por la Comunidad (ASC) es una propuesta impulsada por la Coordinación Baladre, en conexión con grupos europeos y la Red URGENCI, que plantea que personas productoras y no productoras se asocien para responsabilizarse conjuntamente de su alimentación, colectivizando la producción y repartiéndose las tareas necesarias a lo largo de toda la cadena, desde la semilla hasta el consumo. Entiende el alimento sano como un derecho y un bien común, no como una mercancía, y busca romper con la lógica individualista sustituyéndola por redes de apoyo mutuo, horizontalidad entre productoras y consumidoras, y una perspectiva feminista que pone los cuidados en el centro. Se plantea como alternativa al asistencialismo de comedores sociales y bancos de alimentos, conectando iniciativas agroecológicas locales con personas en situación de pobreza para generar autogestión y romper dependencias, con la confianza, la honestidad sobre los miedos y límites, y el sostenimiento colectivo como ejes de trabajo.
 
 ## Taller 2: Salud mental, emocional y psicosocial {#taller2}
 
 Introducción de la temática: Colectivo La burbuja. 
 
+> [!INFO] La Burbuja
+> La Burbuja es un proyecto de colaboración interinstitucional para la atención e integración en Salud Mental Comunitaria en Málaga. El corazón de la iniciativa se encuentra en la Mariscal, la cual está conectada con Hospital Universitario Virgen de la Victoria, Faisem, Afenes, HogarSí (Entidades públicas y una privada). Desde la sede principal, donde estamos y compartimos todos los días de la semana, trabajamos como agentes de acompañamiento. Se pretende potenciar la horizontalidad y el trato entre iguales, buscando no generar distanciamientos entre las etiquetas asignadas por el sistema. Tratamos de aportar una ayuda que sirva para desarrollar proyectos de vida diversos, entendiendo que lo singular de cada una está conectada con una red colectiva más amplia, por ello, pretendemos influenciar para romper burbujas solitarias o desfavorecidas para entrar en conectividades más constructivas en expansión con el territorio.
+
 
 ## Taller 3: Organización colectiva, toma de decisiones y gestión de conflictos de manera no violenta. {#taller3}
 
 Introducción de la temática: Colectivo Sin poli.
+
+> [!INFO] Sin Poli
+> Sin Poli es otro proyecto que analiza, estudia y debate de manera colectiva las causas, consecuencias y posibles alternativas a la creciente policialización. Su propósito es indagar en cómo las comunidades pueden abordar y resolver sus conflictos sin recurrir a la policía ni al derecho penal, recopilando y poniendo en común saberes y prácticas ya existentes de mediación, acompañamiento y justicia comunitaria, desde experiencias vecinales hasta referentes como las comunidades zapatistas de Chiapas o las comunas de Rojava. Frente a la tendencia a delegar en lo policial y lo punitivo la gestión de los malestares colectivos —incluso dentro de los propios espacios activistas, donde se reproducen lógicas de expulsión y veto—, Sin Poli trabaja por ampliar el conocimiento y la red de personas y colectivos aliados en prácticas despolicializadoras, construyendo alternativas basadas en el acuerdo, el cuidado y la reparación frente al castigo.
 
 # Metodología
 
