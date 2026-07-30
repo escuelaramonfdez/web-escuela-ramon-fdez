@@ -15,6 +15,7 @@ Entre los temas a abordar este año estarán:
 
 Durante la escuela se abordará la temática presentada en tres talleres uno para cada una de estas temáticas.
 
+
 - ¿Qué hay que hacer para favorecer una satisfacción de necesidades universal?
 - ¿Qué hay que hacer para que los imaginarios que se expandan sean los ecosociales y no los de extrema derecha?
 - ¿Qué aprendizajes son necesarios?
@@ -23,6 +24,8 @@ Durante la escuela se abordará la temática presentada en tres talleres uno par
 - ¿Qué tipo de organizaciones?
 - ¿Qué alianzas tenemos que priorizar?
 
+> [!IMPORTANT]
+> Si no estuviste en la escuela del año pasado, aquí tienes las [conclusiones del trabajo realizado](https://escuelaramonfdez.org/historico/2025/#conclusiones-de-los-talleres). Conviene que te las mires para tener el contexto desde el que continuaremos trabajando este año.
 
 # Programa
 
@@ -94,7 +97,9 @@ Introducción de la temática: Colectivo La burbuja.
 Introducción de la temática: Colectivo Sin poli.
 
 > [!INFO] Sin Poli
-> Sin Poli es otro proyecto que analiza, estudia y debate de manera colectiva las causas, consecuencias y posibles alternativas a la creciente policialización. Su propósito es indagar en cómo las comunidades pueden abordar y resolver sus conflictos sin recurrir a la policía ni al derecho penal, recopilando y poniendo en común saberes y prácticas ya existentes de mediación, acompañamiento y justicia comunitaria, desde experiencias vecinales hasta referentes como las comunidades zapatistas de Chiapas o las comunas de Rojava. Frente a la tendencia a delegar en lo policial y lo punitivo la gestión de los malestares colectivos —incluso dentro de los propios espacios activistas, donde se reproducen lógicas de expulsión y veto—, Sin Poli trabaja por ampliar el conocimiento y la red de personas y colectivos aliados en prácticas despolicializadoras, construyendo alternativas basadas en el acuerdo, el cuidado y la reparación frente al castigo.
+> SinPoli es un colectivo cuyo propósito es ampliar tanto el campo de reflexión y producción de conocimiento como la red de personas y colectivos que impulsan prácticas y apuestas despolicializadoras y antipunitivas para abordar los desacuerdos, los conflictos y las violencias que, inevitablemente, atraviesan nuestras relaciones sociales y comunitarias. Nuestro horizonte es contribuir a la construcción de una red abolicionista de la policía y de las cárceles.
+
+El taller que proponemos parte de una pregunta muy sencilla: _¿cómo gestionamos nuestros conflictos sin recurrir a la policía (ni a la denuncia) en un contexto de emergencia o colapso?_ A partir de ella, exploraremos los saberes que ya están presentes, a menudo de forma implícita, en múltiples experiencias militantes, comunitarias, vecinales, escolares y familiares. El objetivo es identificar sus claves, reconocer sus potencias y reflexionar sobre sus límites mediante el aprendizaje horizontal y colectivo, con el fin de fortalecer una cultura del conflicto que no dependa de la intervención policial.
 
 # Metodología
 

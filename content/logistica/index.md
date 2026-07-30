@@ -22,7 +22,7 @@ En Requijada, un pequeño pueblo de Segovia. Los talleres el alojamiento serán 
 
 Primero debes llegar a Segovia. Desde Madrid hay autobuses regulares(Avanza) desde el intercambiador de Moncloa. También se puede llegar en tren desde la estación de Chamartín.
 
-Desde Segovia salen autobuses de Linecar hasta Torre Val de San Pedro. Desde allí se puede llegar andando a la casa de formación (5km) pero si vienes con equipaje es mejor que llames a alguno de los teléfonos de contacto e iremos a recogerte.
+Desde Segovia salen autobuses de Linecar hasta Torre Val de San Pedro que está a 5km del lugar de la escuela, pero es mejor que nos indiques en el formulario de inscripción cómo y cuándo llegarás a Segovia para que vayamos a buscarte.
 
 ### Transporte privado
 
