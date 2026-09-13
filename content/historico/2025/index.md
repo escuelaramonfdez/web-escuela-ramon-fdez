@@ -110,6 +110,18 @@ Para trabajar sobre estos temas utilizaremos una metodología basada en la refle
 
 # Conclusiones de los talleres
 
+## Infografía resumen
+
+Estas tres láminas resumen las conclusiones de todos los grupos de trabajo, una por cada fase de la emergencia. En cada una se distinguen las **estrategias** (cómo nos organizamos y nos relacionamos), las **acciones** (qué hacemos) y las **herramientas** (con qué contamos).
+
+<object data="infografia-resumen-rfd-2025.pdf#view=FitH" type="application/pdf" title="Infografía: cómo hacer frente a emergencias y desastres en comunidad" style="width: 100%; aspect-ratio: 297 / 440; border: 1px solid #ddd;">
+  <p>Tu navegador no puede mostrar el PDF aquí. Puedes <a href="infografia-resumen-rfd-2025.pdf">abrir la infografía en PDF</a>.</p>
+</object>
+
+Puedes descargar la infografía en [pdf](infografia-resumen-rfd-2025.pdf) para imprimirla en A3, o en [odp](infografia-emergencias-rfd-2025.odp) si quieres editarla con [LibreOffice Impress](https://es.libreoffice.org) y adaptarla a tu colectivo.
+
+A continuación se recogen las conclusiones de cada grupo de trabajo, tal y como se presentaron en la puesta en común.
+
 ## El Antes
 
 ### Grupo 1. «PROTEGER(NOS) PARA NO PERDER(NOS)»
